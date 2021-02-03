@@ -24,9 +24,9 @@ Podcast has <a href="https://t.me/AppleTreatsNews">its own channel</a>.]]>
         </itunes:owner>
         <itunes:author>Apple Treats</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://appletreats.github.io/images/logo.png"/>
+        <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         <image>
-            <url>https://appletreats.github.io/images/logo.png</url>
+            <url>https://appletreats.github.io/images/logoBig.png</url>
             <title>Apple Treats</title>
             <link>https://twitter.com/AppleTreatsNews</link>
         </image>
@@ -70,7 +70,7 @@ Podcast has <a href="https://t.me/AppleTreatsNews">its own channel</a>.]]>
 <a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.]]>
             </content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/955899997-mobilepeopletalks-2020-in-nutshell.mp3" length="127691820"/>
-            <itunes:image href="https://appletreats.github.io/images/logo.png"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>  
         -->
     </channel>
