@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 10 Feb 2021 13:10:43 +0000</pubDate>
-        <lastBuildDate>Wed, 10 Feb 2021 13:10:43 +0000</lastBuildDate>
+        <pubDate>Wed, 10 Feb 2021 15:10:43 +0000</pubDate>
+        <lastBuildDate>Wed, 10 Feb 2021 15:10:43 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -38,9 +38,9 @@ Podcast has <a href="https://t.me/AppleTreatsNews">its own channel</a>.]]>
         </image>
         <itunes:category text="Technology"/>
         <item>
-            <guid isPermaLink="false">tag:appletreats,2021:tracks/0101a</guid>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0101c</guid>
             <title>Feb 9, 2021 – pilot</title>
-            <pubDate>Wed, 10 Feb 2021 13:10:43 +0000</pubDate>
+            <pubDate>Wed, 10 Feb 2021 15:10:43 +0000</pubDate>
             <link>https://videoportal.epam.com/podcast/rM7kzZJp</link>
             <itunes:duration>00:38:06</itunes:duration>
             <itunes:author>Apple Treats</itunes:author>
