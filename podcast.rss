@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 10 Feb 2020 13:10:43 +0000</pubDate>
-        <lastBuildDate>Wed, 10 Feb 2020 13:10:43 +0000</lastBuildDate>
+        <pubDate>Wed, 10 Feb 2021 13:10:43 +0000</pubDate>
+        <lastBuildDate>Wed, 10 Feb 2021 13:10:43 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -40,8 +40,8 @@ Podcast has <a href="https://t.me/AppleTreatsNews">its own channel</a>.]]>
         <item>
             <guid isPermaLink="false">tag:appletreats,2021:tracks/0101a</guid>
             <title>Feb 9, 2021 – pilot</title>
-            <pubDate>Wed, 10 Feb 2020 13:10:43 +0000</pubDate>
-            <link>https://videoportal.epam.com/podcast/rM7kzZJp</link>
+            <pubDate>Wed, 10 Feb 2021 13:10:43 +0000</pubDate>
+            <link>https://ds0-eu-central-dmlr.videoportal.epam.com/podcast/file/rM7kzZJp/mp3/play-by-vp</link>
             <itunes:duration>00:38:06</itunes:duration>
             <itunes:author>Apple Treats</itunes:author>
             <itunes:explicit>no</itunes:explicit>
@@ -63,7 +63,7 @@ Danis Tazetdinov: <a href="https://t.me/edeniska">Telegram @edeniska</a> (<a hre
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our <a href="https://t.me/AppleTreatsNews">Telegram</a> and <a href="https://twitter.com/AppleTreatsNews">Twitter</a>.]]>
             </content:encoded>
-            <enclosure type="audio/mp3" url="https://ds0-eu-central-dmlr.videoportal.epam.com/podcast/file/rM7kzZJp/mp3/play-by-vp" length="54890974"/>
+            <enclosure type="audio/mpeg" url="https://ds0-eu-central-dmlr.videoportal.epam.com/podcast/file/rM7kzZJp/mp3/play-by-vp" length="54890974"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>  
     </channel>
