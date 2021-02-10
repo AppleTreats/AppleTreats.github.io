@@ -3,18 +3,24 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Tue, 29 Dec 2020 13:10:43 +0000</pubDate>
-        <lastBuildDate>Tue, 29 Dec 2020 13:10:43 +0000</lastBuildDate>
+        <pubDate>Wed, 10 Feb 2020 13:10:43 +0000</pubDate>
+        <lastBuildDate>Wed, 10 Feb 2020 13:10:43 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
-        <description>Bite-sized news for Apple developers.</description>
+        <description>Bite-sized news for Apple developers.
+
+Podcast hosts:
+Danis Tazetdinov: telegram: https://t.me/edeniska, twitter: https://twitter.com/edeniska
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.
+
+Podcast has its own channel: https://t.me/AppleTreatsNews
+        </description>
         <content:encoded>
             <![CDATA[Bite-sized news for Apple developers.<br/><br/>
 Podcast hosts:<br/>
-Danis Tazetdinov: <a href="https://t.me/edeniska">Telegram @edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>),
-                <a href="https://twitter.com/edeniska">Twitter @edeniska</a>.<br/><br/>
-Iryna Yatskevich.<br/><br/>
+Danis Tazetdinov: <a href="https://t.me/edeniska">Telegram @edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>), <a href="https://twitter.com/edeniska">Twitter @edeniska</a>.<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Podcast has <a href="https://t.me/AppleTreatsNews">its own channel</a>.]]>
         </content:encoded>
         <itunes:subtitle>Bite-sized news for Apple developers.</itunes:subtitle>
@@ -31,47 +37,34 @@ Podcast has <a href="https://t.me/AppleTreatsNews">its own channel</a>.]]>
             <link>https://twitter.com/AppleTreatsNews</link>
         </image>
         <itunes:category text="Technology"/>
-<!--
         <item>
-            <guid isPermaLink="false">tag:soundcloud,2010:tracks/955899997</guid>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0101</guid>
             <title>Итоги своеобразного года</title>
-            <pubDate>Wed, 30 Dec 2020 07:11:52 +0000</pubDate>
-            <link>https://soundcloud.com/mobilepeopletalks/2020-in-nutshell</link>
-            <itunes:duration>01:28:20</itunes:duration>
-            <itunes:author>Mobile People Talks</itunes:author>
+            <pubDate>Wed, 10 Feb 2020 13:10:43 +0000</pubDate>
+            <link>https://appletreats.github.io/episodes/at-s01e01-pilot.mp3</link>
+            <itunes:duration>00:38:06</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:season>3</itunes:season>
+            <itunes:season>1</itunes:season>
             <itunes:episode>1</itunes:episode>
-            <description>2020 год был весьма своеобразным, мягко говоря, но и все своеобразное тоже когда-то заканчивается. Вот и 2020, наконец-то, подобрался к своему завершению. По этому поводу мы решили стартануть 3 сезон подкаста, тем более, что тему выбирать долго не нужно, а достаточно просто подвести итоги всего хорошего, всего плохого, ну и всего “своеобразного”, что случилось в мире мобильной разработки в злополучном 2020. А в качестве гостя пригласить никого иного, как Кирилла Розова, ведущего канала Android Broadcast и экс-ведущего Mobile People Talks. Раз уж он начинал этот год как один из ведущих MPT, то идеально подходит для того, чтобы помочь с подведением итогов в качестве гостя!
-
-Поэтому встречайте обсуждение всех значимых новостей, апдейтов и прочих слухов в экосистемах iOS, Android, ReactNative и Flutter. 
-
-Можно ли запустить Android эмулятор на новом процессоре от Apple? Что круче – Compose for Desktop или Flutter for Desktop? Что вы знаете о противостояниях Apple vs Epic или Google vs Huawei? Все это и многое другое – в подведении итогов года от Mobile People Talks.
-
-А еще мы как бы невзначай обсуждаем новое приложение, к которому приложил руку один из ведущих (угадайте, кто) – LifeLog. Установить его можно отсюда: https://apps.apple.com/ru/app/lifelog/id1524950438
-
-Ну и самое главное – у нас новый конкурс! Создавайте мемы про ведущих подкаста, выкладывайте в соцсети, присылайте нам, а мы подарим какой-нибудь интересный приз авторам самых лучших мемов.
-
-С наступающим!
-  
-Пишите нам: mobilepeopletalks@gmail.com</description>
-            <itunes:subtitle>2020 год был весьма своеобразным, мягко говоря, но и все своеобразное тоже когда-то заканчивается. Вот и 2020, наконец-то, подобрался к своему завершению. По этому поводу мы решили стартануть 3 сезон подкаста, тем более, что тему выбирать долго не нужно, а достаточно просто подвести итоги всего хорошего, всего плохого, ну и всего “своеобразного”, что случилось в мире мобильной разработки в злополучном 2020. А в качестве гостя пригласить никого иного, как Кирилла Розова, ведущего канала Android Broadcast и экс-ведущего Mobile People Talks. Раз уж он начинал этот год как один из ведущих MPT, то идеально подходит для того, чтобы помочь с подведением итогов в качестве гостя!</itunes:subtitle>
+            <description>On todays' show:
+- new releases and new betas of Apple OSes;
+- M1 Macs get more and more attention from developers;
+- SwiftUI is taking its steps outside Apple ecosystem;
+- Apple invites developers for special events. Well, at least some of the developers.</description>
+            <itunes:subtitle>This our pilot episode where we're getting familiar with podcasting and discussing beginning of 2021.</itunes:subtitle>
             <content:encoded>
-                <![CDATA[Поэтому встречайте обсуждение всех значимых новостей, апдейтов и прочих слухов в экосистемах iOS, Android, ReactNative и Flutter.<br/><br/>
-Можно ли запустить Android эмулятор на новом процессоре от Apple? Что круче – Compose for Desktop или Flutter for Desktop? Что вы знаете о противостояниях Apple vs Epic или Google vs Huawei? Все это и многое другое – в подведении итогов года от Mobile People Talks.<br/><br/>
-А еще мы как бы невзначай обсуждаем новое приложение, к которому приложил руку один из ведущих (угадайте, кто) – <b>LifeLog</b>. Установить его можно из <a href="https://apps.apple.com/ru/app/lifelog/id1524950438">App Store</a>.<br/><br/>
-Ну и самое главное – у нас новый конкурс! Создавайте мемы про ведущих подкаста, выкладывайте в соцсети, присылайте нам, а мы подарим какой-нибудь интересный приз авторам самых лучших мемов.<br/><br/>
-Гость подкаста:<br/>
-<a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор School.kt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/><br/>
-Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/><br/>
-Ведущие подкаста:<br/>
-<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор GDG Moscow, создатель канала FlutterRussia, Co-Head of Flutter Competency in EPAM.<br/><br/>
-<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, <a href="https://vvsevolodovich.dev">vvsevolodovich.dev</a>, активный спикер, член программного комитета Mobius.<br/><br/>
-<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.]]>
+                <![CDATA[On todays' show:<br/>
+- new releases and new betas of Apple OSes;<br/>
+- M1 Macs get more and more attention from developers;<br/>
+- SwiftUI is taking its steps outside Apple ecosystem;<br/>
+- Apple invites developers for special events. Well, at least some of the developers.<br/><br/>
+Danis Tazetdinov: <a href="https://t.me/edeniska">Telegram @edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>), <a href="https://twitter.com/edeniska">Twitter @edeniska</a>.<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our <a href="https://t.me/AppleTreatsNews">Telegram</a> and <a href="https://twitter.com/AppleTreatsNews">Twitter</a>.]]>
             </content:encoded>
-            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/955899997-mobilepeopletalks-2020-in-nutshell.mp3" length="127691820"/>
+            <enclosure type="audio/mpeg" url="https://ds0-eu-central-dmlr.videoportal.epam.com/podcast/file/rM7kzZJp/mp3/download" length="127691820"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>  
-        -->
     </channel>
 </rss>
