@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 10 Feb 2021 15:10:43 +0000</pubDate>
-        <lastBuildDate>Wed, 10 Feb 2021 15:10:43 +0000</lastBuildDate>
+        <pubDate>Wed, 24 Feb 2021 07:33:07 +0000</pubDate>
+        <lastBuildDate>Wed, 24 Feb 2021 07:33:07 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -67,6 +67,41 @@ Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNew
             </content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/983290042-mobilepeopletalks-apple-treats-pilot.mp3" length="54890974"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
-        </item>  
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0102c</guid>
+            <title>Feb 23, 2021 – Privacy, tracking and developers</title>
+            <pubDate>Wed, 24 Feb 2021 07:33:07 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/at-s01e02-privacy</link>
+            <itunes:duration>00:48:14</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <description>We cover privacy, tracking and how iOS 14.5 will affect developers.
+Also on today's show:
+- Apple's efforts to make iOS more secure;
+- How to deal with analytics in modern era;
+- How authorities and industry reacts to Apple's moves in data privacy;
+- What's new in beta and release updates;
+- How apps and developers affect our lives.</description>
+            <itunes:subtitle>We cover privacy, tracking and how iOS 14.5 will affect developers.</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[Also on today's show:<br/>
+- Apple's efforts to make iOS more secure;<br/>
+- How to deal with analytics in modern era;<br/>
+- How authorities and industry reacts to Apple's moves in data privacy;<br/>
+- What's new in beta and release updates;<br/>
+- How apps and developers affect our lives.<br/><br/>
+at least some of the developers.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=gUI-iUYu5WU">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>), Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/991761313-mobilepeopletalks-at-s01e02-privacy.mp3" length="69514321"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
     </channel>
 </rss>
