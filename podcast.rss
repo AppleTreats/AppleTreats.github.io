@@ -100,7 +100,7 @@ Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly change
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]>
             </content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/991761313-mobilepeopletalks-at-s01e02-privacy.mp3" length="69514321"/>
-            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
         <item>
             <guid isPermaLink="false">tag:appletreats,2021:tracks/0103c</guid>
@@ -129,8 +129,8 @@ Danis Tazetdinov: Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a hre
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]>
             </content:encoded>
-            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/991761313-mobilepeopletalks-at-s01e02-privacy.mp3" length="69514321"/>
-            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/999448021-mobilepeopletalks-at-s01e03-iwd.mp3" length="53036489"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
 </rss>
