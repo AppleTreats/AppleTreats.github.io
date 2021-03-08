@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Sun, 07 Mar 2021 21:25:44 +0000</pubDate>
-        <lastBuildDate>Sun, 07 Mar 2021 21:25:44 +0000</lastBuildDate>
+        <pubDate>Sun, 07 Mar 2021 23:25:44 +0000</pubDate>
+        <lastBuildDate>Sun, 07 Mar 2021 23:25:44 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -53,8 +53,7 @@ Podcast has its own Telegram channel <a href="https://t.me/AppleTreatsNews">@App
 - SwiftUI is taking its steps outside Apple ecosystem;
 - Apple invites developers for special events. Well, at least some of the developers.</description>
             <itunes:subtitle>This our pilot episode where we're getting familiar with podcasting and discussing beginning of 2021.</itunes:subtitle>
-            <content:encoded>
-                <![CDATA[On today's show:<br/>
+            <content:encoded><![CDATA[On today's show:<br/>
 - new releases and new betas of Apple OSes;<br/>
 - M1 Macs get more and more attention from developers;<br/>
 - SwiftUI is taking its steps outside Apple ecosystem;<br/>
@@ -63,8 +62,7 @@ Watch this episode on <a href="https://www.youtube.com/watch?v=lJlM0S2yZac">YouT
 Podcast hosts:<br/>
 Danis Tazetdinov: Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>), Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
-Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]>
-            </content:encoded>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/983290042-mobilepeopletalks-apple-treats-pilot.mp3" length="54890974"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
@@ -86,8 +84,7 @@ Also on today's show:
 - what's new in beta and release updates;
 - how apps and developers affect our lives.</description>
             <itunes:subtitle>We cover privacy, tracking and how iOS 14.5 will affect developers.</itunes:subtitle>
-            <content:encoded>
-                <![CDATA[Also on today's show:<br/>
+            <content:encoded><![CDATA[Also on today's show:<br/>
 - Apple's efforts to make iOS more secure;<br/>
 - how to deal with analytics in modern era;<br/>
 - how authorities and industry reacts to Apple's moves in data privacy;<br/>
@@ -97,8 +94,7 @@ Watch this episode on <a href="https://www.youtube.com/watch?v=gUI-iUYu5WU">YouT
 Podcast hosts:<br/>
 Danis Tazetdinov: Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>), Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
-Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]>
-            </content:encoded>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/991761313-mobilepeopletalks-at-s01e02-privacy.mp3" length="69514321"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
@@ -118,8 +114,7 @@ Our guests:
 - Sitora Guliamova, iOS engineer at EPAM Systems, cat-lover, Instagram: https://instagram.com/sitic_16
 - Svetlana Shardakova, iOS engineer at EPAM Systems, Instagram: https://instagram.com/sunny_junne</description>
             <itunes:subtitle>Special episode of Apple Treats devoted to International Women's Day.</itunes:subtitle>
-            <content:encoded>
-                <![CDATA[We cover stories of girls getting into iOS development and discuss what it takes to make apps for women, and look into smartphone addiction from developers' perspective.<br/><br/>
+            <content:encoded><![CDATA[We cover stories of girls getting into iOS development and discuss what it takes to make apps for women, and look into smartphone addiction from developers' perspective.<br/><br/>
 Our guests:<br/>
 - Sitora Guliamova, iOS engineer at EPAM Systems, cat-lover, Instagram: <a href="https://instagram.com/sitic_16">@sitic_16</a>.<br/>
 - Svetlana Shardakova, iOS engineer at EPAM Systems, Instagram: <a href="https://instagram.com/sunny_junne">@sunny_junne</a>.<br/><br/>
@@ -127,8 +122,7 @@ Watch this episode on <a href="https://www.youtube.com/watch?v=bHqhrOHEAjI">YouT
 Podcast hosts:<br/>
 Danis Tazetdinov: Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>), Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
-Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]>
-            </content:encoded>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/999448021-mobilepeopletalks-at-s01e03-iwd.mp3" length="53036489"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
