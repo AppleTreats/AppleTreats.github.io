@@ -3,15 +3,15 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 24 Mar 2021 08:59:29 +0000</pubDate>
-        <lastBuildDate>Wed, 24 Mar 2021 08:59:29 +0000</lastBuildDate>
+        <pubDate>Wed, 07 Apr 2021 06:35:04 +0000</pubDate>
+        <lastBuildDate>Wed, 07 Apr 2021 06:35:04 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
         <description>Bite-sized news for Apple developers.
 
 Podcast hosts:
-Danis Tazetdinov: telegram: https://t.me/edeniska, twitter: https://twitter.com/edeniska
+Danis Tazetdinov: twitter: https://twitter.com/edeniska, telegram: https://t.me/edeniska
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.
 
 Podcast has its own channel: https://t.me/AppleTreatsNews
@@ -19,7 +19,7 @@ Podcast has its own channel: https://t.me/AppleTreatsNews
         <content:encoded>
             <![CDATA[Bite-sized news for Apple developers.<br/><br/>
 Podcast hosts:<br/>
-Danis Tazetdinov: Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>), Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Podcast has its own Telegram channel <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a>.]]>
         </content:encoded>
@@ -60,7 +60,7 @@ Podcast has its own Telegram channel <a href="https://t.me/AppleTreatsNews">@App
 - Apple invites developers for special events. Well, at least some of the developers.<br/><br/>
 Watch this episode on <a href="https://www.youtube.com/watch?v=lJlM0S2yZac">YouTube</a>.<br/><br/>
 Podcast hosts:<br/>
-Danis Tazetdinov: Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>), Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/983290042-mobilepeopletalks-apple-treats-pilot.mp3" length="54890974"/>
@@ -92,7 +92,7 @@ Also on today's show:
 - how apps and developers affect our lives.<br/><br/>
 Watch this episode on <a href="https://www.youtube.com/watch?v=gUI-iUYu5WU">YouTube</a>.<br/><br/>
 Podcast hosts:<br/>
-Danis Tazetdinov: Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>), Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/991761313-mobilepeopletalks-at-s01e02-privacy.mp3" length="69514321"/>
@@ -120,7 +120,7 @@ Our guests:<br/>
 - Svetlana Shardakova, iOS engineer at EPAM Systems, Instagram: <a href="https://instagram.com/sunny_junne">@sunny_junne</a>.<br/><br/>
 Watch this episode on <a href="https://www.youtube.com/watch?v=bHqhrOHEAjI">YouTube</a>.<br/><br/>
 Podcast hosts:<br/>
-Danis Tazetdinov: Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>), Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/999448021-mobilepeopletalks-at-s01e03-iwd.mp3" length="53036489"/>
@@ -146,10 +146,79 @@ Our guest:<br/>
 - Nikita Leonov, principal developer at Atlassian, Twitter: <a href="https://twitter.com/leonovco">@leonovco</a>.<br/>
 Watch this episode on <a href="https://www.youtube.com/watch?v=qVQV__8h3yA">YouTube</a>.<br/><br/>
 Podcast hosts:<br/>
-Danis Tazetdinov: Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>), Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1015320184-mobilepeopletalks-teamwork-on-mobile-projects.mp3" length="50611490"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0104c</guid>
+            <title>Mar 23, 2021 – Teamwork on mobile projects</title>
+            <pubDate>Wed, 24 Mar 2021 08:59:29 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=qVQV__8h3yA</link>
+            <itunes:duration>00:35:07</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <description>On this episode we're discussing specifics of working on mobile projects in big (or small) teams.
+
+Our guest:
+- Nikita Leonov, principal developer at Atlassian, https://twitter.com/leonovco</description>
+            <itunes:subtitle>On this episode we're discussing specifics of working on mobile projects in big (or small) teams.</itunes:subtitle>
+            <content:encoded><![CDATA[How to work on mobile projects? What does it take to scale the team? How Atlassian works on its projects? Did last year change much in development? All of these questions are addressed in this episode.<br/><br/>
+Our guest:<br/>
+- Nikita Leonov, principal developer at Atlassian, Twitter: <a href="https://twitter.com/leonovco">@leonovco</a>.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=qVQV__8h3yA">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1015320184-mobilepeopletalks-teamwork-on-mobile-projects.mp3" length="50611490"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0105c</guid>
+            <title>Apr 6, 2021 – Security for developers</title>
+            <pubDate>Wed, 07 Apr 2021 06:35:04 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=qa7vkbL4pAQ</link>
+            <itunes:duration>00:39:43</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <description>In our fifth episode we talk on Application Security and, of course, about privacy.
+What are our expectations of WWDC21? What iOS 14.5 brings to users and developers? Apple rejects apps using privacy-unfriendly SDKs, China apps use their own fingerprinting approachs.
+Of course, we couldn't avoid discussing Facebook and leak of 526M accounts. We also talk on new threats for developers and basic things to start with, if you're interested in increasing app's security.
+
+Further reading and watching:
+Apple Platform Security: https://support.apple.com/guide/security/welcome/web
+OWASP Mobile Security Testing Guide: https://github.com/OWASP/owasp-mstg
+OWASP Mobile Application Security Verification Standard: https://github.com/OWASP/owasp-masvs
+
+Workbook for "Security data management for app devs": https://github.com/vixentael/security-data-management-for-app-devs-workshop
+Mobile Notts 2021 talk: End-to-end encrypted doesn't mean secure: https://www.youtube.com/watch?v=CqsrA4eeGSs&list=PLWpf2Cn-bt0-6pjQ3SJf3tjIza_rPaJAf&index=13
+
+Our guest:
+- Anastasiia Voitova, Head of Customer Solutions, Security Software engineer at Cossack Labs, https://twitter.com/vixentael</description>
+            <itunes:subtitle>In our fifth episode we talk on Application Security and, of course, about privacy.</itunes:subtitle>
+            <content:encoded><![CDATA[What are our expectations of WWDC21? What iOS 14.5 brings to users and developers? Apple rejects apps using privacy-unfriendly SDKs, China apps use their own fingerprinting approachs.<br/>
+Of course, we couldn't avoid discussing Facebook and leak of 526M accounts. We also talk on new threats for developers and basic things to start with, if you're interested in increasing app's security.<br/><br/>
+Further reading and watching:<br/>
+<a href="https://support.apple.com/guide/security/welcome/web">Apple Platform Security</a><br/><br/>
+<a href="https://github.com/OWASP/owasp-mstg">OWASP Mobile Security Testing Guide</a><br/><br/>
+<a href="https://github.com/OWASP/owasp-masvs">OWASP Mobile Application Security Verification Standard</a><br/><br/>
+<a href="https://github.com/vixentael/security-data-management-for-app-devs-workshop">Workbook for "Security data management for app devs"</a><br/><br/>
+Mobile Notts 2021 talk: <a href="https://www.youtube.com/watch?v=CqsrA4eeGSs&list=PLWpf2Cn-bt0-6pjQ3SJf3tjIza_rPaJAf&index=13">End-to-end encrypted doesn't mean secure</a><br/><br/>
+Our guest:<br/>
+- Anastasiia Voitova, Head of Customer Solutions, Security Software engineer at Cossack Labs, <a href="https://twitter.com/vixentael">@vixentael</a>.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=qa7vkbL4pAQ">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1024115680-mobilepeopletalks-at-s01e05-security-for-developers.mp3" length="57245129"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
