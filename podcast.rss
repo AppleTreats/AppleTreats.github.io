@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 07 Apr 2021 06:35:04 +0000</pubDate>
-        <lastBuildDate>Wed, 07 Apr 2021 06:35:04 +0000</lastBuildDate>
+        <pubDate>Wed, 21 Apr 2021 07:39:30 +0000</pubDate>
+        <lastBuildDate>Wed, 21 Apr 2021 07:39:30 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -193,6 +193,37 @@ Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, 
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1024115680-mobilepeopletalks-at-s01e05-security-for-developers.mp3" length="57245129"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0106c</guid>
+            <title>Apr 20, 2021 – Special pre-event show</title>
+            <pubDate>Wed, 21 Apr 2021 07:39:30 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=UqALtmQfT3w</link>
+            <itunes:duration>00:27:10</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <description>Apple announces "Spring Loaded" special event for April 20. So we gathered with our team and friends to make some predictions.
+Listen to this episode to find out, if our predictions were correct. Interestingly, there were still announcements that we did not expect.
+
+Our guests:
+- Andrii Zhatkin, iOS developer at EPAM Systems, stream engineer for Apple Treats, https://twitter.com/AndriiZhatkin
+- Aleksandr Denisov, GDG Moscow organizer, Co-Head of Flutter Competency at EPAM, Mobile People Talks co-host, https://twitter.com/ShuregDenisov
+- Vladimir Burdukov, iOS developer at EPAM Systems, iOS developer by day and Rust maniac by night, stream engineer for Apple Treats, https://twitter.com/chippcheg</description>
+            <itunes:subtitle><description>Apple announces "Spring Loaded" special event for April 20. So we gathered with our team and friends to make some predictions.</itunes:subtitle>
+            <content:encoded><![CDATA[Listen to this episode to find out, if our predictions were correct. Interestingly, there were still announcements that we did not expect.<br/><br/>
+Our guests:<br/>
+- Andrii Zhatkin, iOS developer at EPAM Systems, stream engineer for Apple Treats, <a href="https://twitter.com/AndriiZhatkin">@AndriiZhatkin</a><br/><br/>
+- Aleksandr Denisov, GDG Moscow organizer, сo-Head of Flutter Competency at EPAM Systems, Mobile People Talks podcast co-host, <a href="https://twitter.com/ShuregDenisov">@ShuregDenisov</a><br/><br/>
+- Vladimir Burdukov, iOS developer at EPAM Systems, iOS developer by day and Rust maniac by night, stream engineer for Apple Treats, <a href="https://twitter.com/chippcheg">@chippcheg</a><br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=UqALtmQfT3w">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1033768750-mobilepeopletalks-at-s01e06-special-event.mp3" length="39162334"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
