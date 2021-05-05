@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 21 Apr 2021 07:39:30 +0000</pubDate>
-        <lastBuildDate>Wed, 21 Apr 2021 07:39:30 +0000</lastBuildDate>
+        <pubDate>Wed, 05 May 2021 08:10:47 +0000</pubDate>
+        <lastBuildDate>Wed, 05 May 2021 08:10:47 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -224,6 +224,51 @@ Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, 
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1033768750-mobilepeopletalks-at-s01e06-special-event.mp3" length="39162334"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0107c</guid>
+            <title>May 4, 2021 – Sourcery for developers</title>
+            <pubDate>Wed, 05 May 2021 08:10:47 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/at-s01e07-sourcery</link>
+            <itunes:duration>00:52:36</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <description>We are joined by Krzysztof Zabłocki to talk about Sourcery, Sourcery Pro and his other projects. As well, as his path in IT.
+What is Sourcery, and how Pro is different? Unexpected uses of Sourcery, chances of "sherlocking", approaches to keep healthy development habits and being fit – are just some of the topics we cover today.
+
+Our guest:
+- Krzysztof Zabłocki, Lead iOS Developer, author of Sourcery and Sourcery Pro, https://twitter.com/merowing_
+
+More info:
+Blog: https://merowing.info/
+Fit geek blog post: https://merowing.info/2014/02/fit-geek/
+Sourcery: https://github.com/krzysztofzablocki/Sourcery
+Sourcery Pro: https://merowing.info/sourcery-pro/
+Sourcery Workshops: https://github.com/krzysztofzablocki/SourceryWorkshops
+Automatic Settings: https://github.com/krzysztofzablocki/AutomaticSettings
+</description>
+            <itunes:subtitle>Krzysztof Zabłocki comes to Apple Treats and we'll going to talk about Sourcery and what it could do for developers.</itunes:subtitle>
+            <content:encoded><![CDATA[We are joined by Krzysztof Zabłocki to talk about Sourcery, Sourcery Pro and his other projects. As well, as his path in IT.<br/>What is Sourcery, and how Pro is different? Unexpected uses of Sourcery, chances of "sherlocking", approaches to keep healthy development habits and being fit – are just some of the topics we cover today.<br/><br/>
+Our guest:<br/>
+- Krzysztof Zabłocki, Lead iOS Developer, author of Sourcery and Sourcery Pro, <a href="https://twitter.com/merowing_">@merowing_</a>.<br/><br/>
+
+More info:<br/>
+<a href="https://merowing.info/">Krzysztof's Blog</a><br/><br/>
+<a href="https://merowing.info/2014/02/fit-geek/">Fit geek blog post</a><br/><br/>
+<a href="https://github.com/krzysztofzablocki/Sourcery">Sourcery</a><br/><br/>
+<a href="https://merowing.info/sourcery-pro/">Sourcery Pro</a><br/><br/>
+<a href="https://github.com/krzysztofzablocki/SourceryWorkshops">Sourcery Workshops</a><br/><br/>
+<a href="https://github.com/krzysztofzablocki/AutomaticSettings">Automatic Settings</a><br/><br/>
+
+Watch this episode on <a href="https://www.youtube.com/watch?v=nxzHcUTm20E">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1042930687-mobilepeopletalks-at-s01e07-sourcery.mp3" length="75791232"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
