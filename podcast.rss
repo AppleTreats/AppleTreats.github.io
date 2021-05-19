@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 05 May 2021 08:10:47 +0000</pubDate>
-        <lastBuildDate>Wed, 05 May 2021 08:10:47 +0000</lastBuildDate>
+        <pubDate>Wed, 19 May 2021 19:06:52 +0000</pubDate>
+        <lastBuildDate>Wed, 19 May 2021 19:06:52 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -269,6 +269,36 @@ Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, 
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1042930687-mobilepeopletalks-at-s01e07-sourcery.mp3" length="75791232"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0108c</guid>
+            <title>May 18, 2021 – Open source projects</title>
+            <pubDate>Wed, 19 May 2021 19:06:52 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=a0R_RmXxzcQ</link>
+            <itunes:duration>00:28:30</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>8</itunes:episode>
+            <description>Stuart Breckenridge from NetNewsWire team comes to our podcast. We're discussing origins of NetNewsWire, practices of open source developments, and recommendations for those who want to start contributing to open source or willing to start their own project.
+
+Our guest:
+- Stuart Breckenridge, NetNewsWire developer, https://twitter.com/stuarticus
+
+NetNewsWire project: https://github.com/Ranchero-Software/NetNewsWire
+</description>
+            <itunes:subtitle>Krzysztof Zabłocki comes to Apple Treats and we'll going to talk about Sourcery and what it could do for developers.</itunes:subtitle>
+            <content:encoded><![CDATA[Stuart Breckenridge from NetNewsWire team comes to our podcast. We're discussing origins of NetNewsWire, practices of open source developments, and recommendations for those who want to start contributing to open source or willing to start their own project.<br/><br/>
+Our guest:<br/>
+- Stuart Breckenridge, NetNewsWire developer, <a href="https://twitter.com/stuarticus">@stuarticus</a>.<br/><br/>
+NetNewsWire project: <a href="https://github.com/Ranchero-Software/NetNewsWire">GitHub</a>.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=a0R_RmXxzcQ">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1051638211-mobilepeopletalks-at-s01e08-open-source.mp3" length="41088290"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
