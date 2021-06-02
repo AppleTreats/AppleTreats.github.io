@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 19 May 2021 19:06:52 +0000</pubDate>
-        <lastBuildDate>Wed, 19 May 2021 19:06:52 +0000</lastBuildDate>
+        <pubDate>Wed, 02 Jun 2021 09:04:25 +0000</pubDate>
+        <lastBuildDate>Wed, 02 Jun 2021 09:04:25 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -299,6 +299,48 @@ Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, 
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1051638211-mobilepeopletalks-at-s01e08-open-source.mp3" length="41088290"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0109c</guid>
+            <title>Jun 1, 2021 – Kids vs apps</title>
+            <pubDate>Wed, 02 Jun 2021 09:04:25 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=WEVbTlsJE3Y</link>
+            <itunes:duration>00:48:38</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>9</itunes:episode>
+            <description>We're celebrating Children's Day. Together with our guest, Olexandra Dmytrenko, we're discussing all the ways our kid interact with mobile devices. We try to define the age when you should first allow your kid playing with the phone. Or when you should consider teaching him or her development. We also look into mobile apps for kids and how they are different.
+
+Our guest:
+- Olexandra Dmytrenko, eKids program lead trainer, EPAM Systems, https://twitter.com/LadyInIT
+
+Useful links:
+- Programming Garden blog (in Russian), http://olexandradmytrenko.blogspot.com/
+- Scratch, https://apps.apple.com/us/app/scratch/id1446785996
+- Logo Mindstorms Inventor, https://apps.apple.com/us/app/lego-mindstorms-inventor/id1515448947
+- Greenfoot, https://www.greenfoot.org/
+- Sphero Edu, https://apps.apple.com/us/app/sphero-edu/id1017847674
+- Python Recipes, https://apps.apple.com/us/app/python-recipes/id1180825853
+</description>
+            <itunes:subtitle>We're celebrating Children's Day. Together with our guest, Olexandra Dmytrenko, we're discussing all the ways our kid interact with mobile devices.</itunes:subtitle>
+            <content:encoded><![CDATA[We're celebrating Children's Day. Together with our guest, Olexandra Dmytrenko, we're discussing all the ways our kid interact with mobile devices. We try to define the age when you should first allow your kid playing with the phone. Or when you should consider teaching him or her development. We also look into mobile apps for kids and how they are different.<br/><br/>
+Our guest:<br/>
+- Olexandra Dmytrenko, eKids program lead trainer, EPAM Systems, <a href="https://twitter.com/LadyInIT">@LadyInIT</a>.<br/><br/>
+Useful links:<br/>
+- <a href="https://olexandradmytrenko.blogspot.com/">Programming Garden</a> blog (in Russian)<br/><br/>
+- <a href="https://apps.apple.com/us/app/scratch/id1446785996">Scratch</a><br/><br/>
+- <a href="https://apps.apple.com/us/app/lego-mindstorms-inventor/id1515448947">Logo Mindstorms Inventor</a><br/><br/>
+- <a href="https://www.greenfoot.org/">Greenfoot</a><br/><br/>
+- <a href="https://apps.apple.com/us/app/sphero-edu/id1017847674">Sphero Edu</a><br/><br/>
+- <a href="https://apps.apple.com/us/app/python-recipes/id1180825853">Python Recipes</a><br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=WEVbTlsJE3Y">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1060369597-mobilepeopletalks-at-s01e09-kids-vs-apps.mp3" length="70084835"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
