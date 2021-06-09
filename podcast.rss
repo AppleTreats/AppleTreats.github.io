@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 02 Jun 2021 09:04:25 +0000</pubDate>
-        <lastBuildDate>Wed, 02 Jun 2021 09:04:25 +0000</lastBuildDate>
+        <pubDate>Wed, 09 Jun 2021 06:40:00 +0000</pubDate>
+        <lastBuildDate>Wed, 09 Jun 2021 06:40:00 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -341,6 +341,30 @@ Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, 
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1060369597-mobilepeopletalks-at-s01e09-kids-vs-apps.mp3" length="70084835"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0110c</guid>
+            <title>Jun 8, 2021 – WWDC21!</title>
+            <pubDate>Wed, 09 Jun 2021 06:40:00 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=iNWRlE6s4OA</link>
+            <itunes:duration>00:41:15</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>10</itunes:episode>
+            <description>We’re discussing all the things announced by Apple on Keynote and State of the Union. What developers should do the whole next year, what technologies will be trending, what tools we should adopt.
+From Xcode Cloud to SharePlay, from AirPods to iPad multitasking, and everything else.
+</description>
+            <itunes:subtitle>We're under impression of the WWDC21 first day. Let's dive deep into all the announcements we've heard.</itunes:subtitle>
+            <content:encoded><![CDATA[We’re discussing all the things announced by Apple on Keynote and State of the Union. What developers should do the whole next year, what technologies will be trending, what tools we should adopt.<br/>
+                From Xcode Cloud to SharePlay, from AirPods to iPad multitasking, and everything else.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=iNWRlE6s4OA">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1064793478-mobilepeopletalks-at-s01e10-wwdc21.mp3" length="75658552"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
