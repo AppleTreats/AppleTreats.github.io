@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 09 Jun 2021 06:40:00 +0000</pubDate>
-        <lastBuildDate>Wed, 09 Jun 2021 06:40:00 +0000</lastBuildDate>
+        <pubDate>Wed, 23 Jun 2021 07:18:14 +0000</pubDate>
+        <lastBuildDate>Wed, 23 Jun 2021 07:18:14 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -365,6 +365,44 @@ Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, 
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1064793478-mobilepeopletalks-at-s01e10-wwdc21.mp3" length="75658552"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0111c</guid>
+            <title>Jun 22, 2021 – Swift for Web</title>
+            <pubDate>Wed, 23 Jun 2021 07:18:14 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=rfO5ff-79ws</link>
+            <itunes:duration>00:47:16</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>11</itunes:episode>
+            <description>In this episode we're discussing interesting topic of Swift getting into new platforms. Server-side Swift, Swift WebAssembly, Tokamak – we're covering these and other topics with our special guest – Max Desiatov. He is leading a lot of activities promoting Swift to new platforms.
+
+Our guest:
+Max Desiatov, co-maintainer of SwiftWasm and Tokamak, https://twitter.com/maxdesiatov
+
+Useful links:
+Swift WebAssembly https://swiftwasm.org
+SwiftWasm Discord https://discord.gg/ashJW8T8yp
+Tokamak https://tokamak.dev
+
+Watch this episode: https://www.youtube.com/watch?v=rfO5ff-79ws
+</description>
+            <itunes:subtitle>Swift goes to new places. What can Swift do on the Web?</itunes:subtitle>
+            <content:encoded><![CDATA[In this episode we're discussing interesting topic of Swift getting into new platforms. Server-side Swift, Swift WebAssembly, Tokamak – we're covering these and other topics with our special guest – Max Desiatov. He is leading a lot of activities promoting Swift to new platforms.<br/><br/>
+Our guest:<br/>
+Max Desiatov, co-maintainer of SwiftWasm and Tokamak, <a href="https://twitter.com/maxdesiatov">@maxdesiatov</a><br/><br/>
+Useful links:<br/>
+<a href="https://swiftwasm.org">Swift WebAssembly</a><br/><br/>
+<a href="https://discord.gg/ashJW8T8yp">SwiftWasm Discord</a><br/><br/>
+<a href="https://tokamak.dev">Tokamak</a><br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=rfO5ff-79ws">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1074162862-mobilepeopletalks-at-s01e11-swift-for-web.mp3" length="89864231"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
