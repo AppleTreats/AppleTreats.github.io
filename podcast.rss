@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 23 Jun 2021 07:18:14 +0000</pubDate>
-        <lastBuildDate>Wed, 23 Jun 2021 07:18:14 +0000</lastBuildDate>
+        <pubDate>Wed, 07 Jul 2021 07:22:44 +0000</pubDate>
+        <lastBuildDate>Wed, 07 Jul 2021 07:22:44 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -403,6 +403,55 @@ Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, 
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1074162862-mobilepeopletalks-at-s01e11-swift-for-web.mp3" length="89864231"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0112c</guid>
+            <title>Jul 6, 2021 – Server-side Swift and VAPOR</title>
+            <pubDate>Wed, 07 Jul 2021 07:22:44 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=NINNVePLLR4</link>
+            <itunes:duration>00:39:16</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>12</itunes:episode>
+            <description>We've already discussed how Swift expands to Web. So, now it's time to focus on server-side Swift. And, yes, VAPOR. Tim Condon joins our podcast to talk on Swift's future on server, VAPOR roadmap, and all things Swift.
+
+Our guest:
+Tim Condon, VAPOR core team, https://twitter.com/0xtim
+
+Useful links:
+Swift on Server Development Guide – https://github.com/swift-server/guides
+
+VAPOR Docs – https://docs.vapor.codes/4.0/
+
+Learn web development with Swift – https://www.raywenderlich.com/server-side-swift
+
+Tim's Book - Server-Side Swift with Vapor – https://www.raywenderlich.com/books/server-side-swift-with-vapor
+
+Smoke Framework – https://github.com/amzn/smoke-framework
+
+Soto, Swift SDK for Amazon Web Services – https://soto.codes
+
+Watch this episode: https://www.youtube.com/watch?v=NINNVePLLR4
+</description>
+            <itunes:subtitle>Swift on server? Yes! Even better than expected.</itunes:subtitle>
+            <content:encoded><![CDATA[We've already discussed how Swift expands to Web. So, now it's time to focus on server-side Swift. And, yes, VAPOR. Tim Condon joins our podcast to talk on Swift's future on server, VAPOR roadmap, and all things Swift.<br/><br/>
+Our guest:<br/>
+Tim Condon, VAPOR core team, <a href="https://twitter.com/0xtim">@0xtim</a><br/><br/>
+Useful links:<br/>
+<a href="https://github.com/swift-server/guides">Swift on Server Development Guide</a><br/><br/>
+<a href="https://docs.vapor.codes/4.0/">VAPOR Docs</a><br/><br/>
+<a href="https://www.raywenderlich.com/server-side-swift">Learn web development with Swift</a><br/><br/>
+<a href="https://www.raywenderlich.com/books/server-side-swift-with-vapor">Tim's Book &quot;Server-Side Swift with Vapor&quot;</a><br/><br/>
+<a href="https://github.com/amzn/smoke-framework">Smoke Framework</a><br/><br/>
+<a href="https://soto.codes">Soto, Swift SDK for Amazon Web Services</a><br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=NINNVePLLR4">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1083008533-mobilepeopletalks-at-s01e12-server-side-swift-and-vapor.mp3" length="74596180"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
