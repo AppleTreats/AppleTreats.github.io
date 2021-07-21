@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 07 Jul 2021 07:22:44 +0000</pubDate>
-        <lastBuildDate>Wed, 07 Jul 2021 07:22:44 +0000</lastBuildDate>
+        <pubDate>Wed, 21 Jul 2021 07:47:45 +0000</pubDate>
+        <lastBuildDate>Wed, 21 Jul 2021 07:47:45 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -452,6 +452,41 @@ Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, 
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1083008533-mobilepeopletalks-at-s01e12-server-side-swift-and-vapor.mp3" length="74596180"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0113c</guid>
+            <title>Jul 20, 2021 – Future of Combine</title>
+            <pubDate>Wed, 21 Jul 2021 07:47:45 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=XdoVFDDVdj0</link>
+            <itunes:duration>00:40:26</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>13</itunes:episode>
+            <description>We're getting into reactive programming. WWDC21 has zero attention to Combine. Is it alive? What is the future? How Swift Structured Concurrency will affect it?
+And we're also touching DocC a bit. Why? Our guest has something to say about it. Not much though :)
+
+Our guest:
+Marin Todorov, developer, book author, trainer, speaker, https://twitter.com/icanzilb
+
+Useful links:
+Timelane – https://timelane.tools
+Marin's books – https://underplot.com/#books
+</description>
+            <itunes:subtitle>Swift on server? Yes! Even better than expected.</itunes:subtitle>
+            <content:encoded><![CDATA[We're getting into reactive programming. WWDC21 has zero attention to Combine. Is it alive? What is the future? How Swift Structured Concurrency will affect it?<br/><br/>
+And we're also touching DocC a bit. Why? Our guest has something to say about it. Not much though :)<br/><br/>
+Our guest:<br/>
+Marin Todorov, developer, book author, trainer, speaker, <a href="https://twitter.com/icanzilb">@icanzilb</a><br/><br/>
+Useful links:<br/>
+<a href="https://timelane.tools">Timelane</a><br/><br/>
+<a href="https://underplot.com/#books">Marin's books</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1091300758-mobilepeopletalks-at-s01e13-future-of-combine.mp3" length="75024087"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
