@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 21 Jul 2021 07:47:45 +0000</pubDate>
-        <lastBuildDate>Wed, 21 Jul 2021 07:47:45 +0000</lastBuildDate>
+        <pubDate>Wed, 04 Aug 2021 05:33:40 +0000</pubDate>
+        <lastBuildDate>Wed, 04 Aug 2021 05:33:40 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -487,6 +487,42 @@ Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, 
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1091300758-mobilepeopletalks-at-s01e13-future-of-combine.mp3" length="75024087"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0114c</guid>
+            <title>Aug 3, 2021 – Day in iOS developer's life</title>
+            <pubDate>Wed, 04 Aug 2021 05:33:40 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=jHQL5FavZsI</link>
+            <itunes:duration>00:47:11</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>14</itunes:episode>
+            <description>Summer is still quite busy time for developers. While Apple readies iOS for release, we're still doing our projects. So, let's look what are developers doing these days.
+We're getting into our own daily routines – and it's not just the podcast. How many hours we spend coding? Which frameworks we use and which we tend to avoid? Are mobile apps just ways of displaying JSON on screen?
+
+Our guest:
+Vladimir Burdukov, Apple Treats team, https://twitter.com/chippcheg
+
+Links:
+LifeLog: https://apps.apple.com/app/lifelog-personal-diary/id1524950438
+
+Watch this episode: https://www.youtube.com/watch?v=jHQL5FavZsI
+</description>
+            <itunes:subtitle>Podcast hosts show their true self and talk their iOS development background.</itunes:subtitle>
+            <content:encoded><![CDATA[Summer is still quite busy time for developers. While Apple readies iOS for release, we're still doing our projects. So, let's look what are developers doing these days.<br/><br/>
+We're getting into our own daily routines – and it's not just the podcast. How many hours we spend coding? Which frameworks we use and which we tend to avoid? Are mobile apps just ways of displaying JSON on screen?<br/><br/>
+Our guest:<br/>
+Vladimir Burdukov, Apple Treats team, <a href="https://twitter.com/chippcheg">@chippcheg</a><br/><br/>
+Links:<br/>
+<a href="https://apps.apple.com/app/lifelog-personal-diary/id1524950438">LifeLog</a> – SwiftUI app example.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=jHQL5FavZsI">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1099760488-mobilepeopletalks-s01e14-day-in-life.mp3" length="82371703"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
