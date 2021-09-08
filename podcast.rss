@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 04 Aug 2021 05:33:40 +0000</pubDate>
-        <lastBuildDate>Wed, 04 Aug 2021 05:33:40 +0000</lastBuildDate>
+        <pubDate>Wed, 08 Sep 2021 07:37:05 +0000</pubDate>
+        <lastBuildDate>Wed, 08 Sep 2021 07:37:05 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -523,6 +523,44 @@ Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, 
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1099760488-mobilepeopletalks-s01e14-day-in-life.mp3" length="82371703"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0115c</guid>
+            <title>Sep 7, 2021 – Talks on Swift</title>
+            <pubDate>Wed, 08 Sep 2021 07:37:05 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=5tcZH-8RwK8</link>
+            <itunes:duration>00:53:49</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>15</itunes:episode>
+            <description>While we’re waiting for new iPhone, release of iOS 15 and other platforms, Swift 5.5 getting out of beta, let’s talk with Chris Eidhof, founder of objc.io and Swift Talk.
+We’re covering SwiftUI, Swift and the need for true Swift runtime, future of Swift on other platforms.
+
+Our guest:
+Chris Eidhof, objc.io founder, https://twitter.com/chriseidhof
+
+Links:
+objc.io books: https://www.objc.io/books/
+Swift Talk: https://talk.objc.io
+
+Watch this episode: https://www.youtube.com/watch?v=5tcZH-8RwK8
+</description>
+            <itunes:subtitle>We welcome Chris Eidhof from Swift Talk to ... talk Swift.</itunes:subtitle>
+            <content:encoded><![CDATA[While we’re waiting for new iPhone, release of iOS 15 and other platforms, Swift 5.5 getting out of beta, let’s talk with Chris Eidhof, founder of objc.io and Swift Talk.<br/>
+We’re covering SwiftUI, Swift and the need for true Swift runtime, future of Swift on other platforms.<br/><br/>
+Our guest:<br/>
+Chris Eidhof, <a href="https://objc.io">objc.io</a> founder, <a href="https://twitter.com/chriseidhof">@chriseidhof</a><br/><br/>
+Links:<br/>
+<a href="https://www.objc.io/books/">objc.io books</a><br/><br/>
+<a href="https://talk.objc.io">Swift Talk</a><br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=5tcZH-8RwK8">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1120860202-mobilepeopletalks-at-s01e15-talks-on-swift.mp3" length="102064983"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
