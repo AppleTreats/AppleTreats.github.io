@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 06 Oct 2021 07:37:08 +0000</pubDate>
-        <lastBuildDate>Wed, 06 Oct 2021 07:37:08 +0000</lastBuildDate>
+        <pubDate>Wed, 06 Oct 2021 07:47:18 +0000</pubDate>
+        <lastBuildDate>Wed, 06 Oct 2021 07:47:18 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -593,9 +593,9 @@ Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNew
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
         <item>
-            <guid isPermaLink="false">tag:appletreats,2021:tracks/0117c</guid>
-            <title>Oct 5, 2021 – iOS 15 is here!</title>
-            <pubDate>Wed, 06 Oct 2021 07:37:08 +0000</pubDate>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0117d</guid>
+            <title>Oct 5, 2021 – What's new for developers?..</title>
+            <pubDate>Wed, 06 Oct 2021 07:47:18 +0000</pubDate>
             <link>https://www.youtube.com/watch?v=PDWycpbyoB0</link>
             <itunes:duration>00:41:33</itunes:duration>
             <itunes:author>Apple Treats</itunes:author>
