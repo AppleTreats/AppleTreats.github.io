@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 22 Sep 2021 07:33:57 +0000</pubDate>
-        <lastBuildDate>Wed, 22 Sep 2021 07:33:57 +0000</lastBuildDate>
+        <pubDate>Wed, 06 Oct 2021 07:37:08 +0000</pubDate>
+        <lastBuildDate>Wed, 06 Oct 2021 07:37:08 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -590,6 +590,34 @@ Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, 
 Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1129011502-mobilepeopletalks-s01e16-ios-15-is-here.mp3" length="59891510"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0117c</guid>
+            <title>Oct 5, 2021 – iOS 15 is here!</title>
+            <pubDate>Wed, 06 Oct 2021 07:37:08 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=PDWycpbyoB0</link>
+            <itunes:duration>00:41:33</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>17</itunes:episode>
+            <description>iOS 15 is released. Xcode 13 is. So is Swift 5.5. And new SDKs. Together with Vladimir Burdukov we're discussing recent changes and overall impressions of modern day development for iOS and other Apple platforms.
+How new SDK affects normal apps? What's wrong with new concurrency features? SwiftUI – are we there yet?
+
+Today's co-host: Vladimir Burdukov, EPAM Systems, https://twitter.com/chippcheg
+
+Watch this episode: https://www.youtube.com/watch?v=PDWycpbyoB0
+</description>
+            <itunes:subtitle>Two old developers yell at cloud. And discuss modern development.</itunes:subtitle>
+            <content:encoded><![CDATA[iOS 15 is released. Xcode 13 is. So is Swift 5.5. And new SDKs. Together with Vladimir Burdukov we're discussing recent changes and overall impressions of modern day development for iOS and other Apple platforms.<br/><br/>
+How new SDK affects normal apps? What's wrong with new concurrency features? SwiftUI – are we there yet?<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=PDWycpbyoB0">YouTube</a>.<br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1136830000-mobilepeopletalks-whats-new-for-developers.mp3" length="76769348"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
