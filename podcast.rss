@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 06 Oct 2021 07:47:18 +0000</pubDate>
-        <lastBuildDate>Wed, 06 Oct 2021 07:47:18 +0000</lastBuildDate>
+        <pubDate>Wed, 20 Oct 2021 05:25:56 +0000</pubDate>
+        <lastBuildDate>Wed, 20 Oct 2021 05:25:56 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -618,6 +618,47 @@ Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, 
 Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1136830000-mobilepeopletalks-whats-new-for-developers.mp3" length="76769348"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0118d</guid>
+            <title>Oct 19, 2021 – Pet projects and open source</title>
+            <pubDate>Wed, 20 Oct 2021 05:25:56 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=XOJXEimbVZ0</link>
+            <itunes:duration>00:37:59</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>18</itunes:episode>
+            <description>We've invited Alex Grebenyuk to discuss pet projects, open source activities, problems and benefits. How to find time, how to contribute and how to pay respects to those who publish their work.
+Also we share our first impressions on Apple's special event and plan next upgrades.
+
+Our guest: Alex Grebenyuk, author of Nuke, Pulse, Align, https://twitter.com/a_grebenyuk
+
+Today's co-host: Vladimir Burdukov, EPAM Systems, https://twitter.com/chippcheg
+
+Useful links:
+Blog - https://kean.blog
+Pulse - https://github.com/kean/Pulse
+Nuke - https://github.com/kean/Nuke
+
+Watch this episode: https://www.youtube.com/watch?v=XOJXEimbVZ0
+</description>
+            <itunes:subtitle>Sometimes developers help open source projects, sometimes.. open source projects help developers.</itunes:subtitle>
+            <content:encoded><![CDATA[We've invited Alex Grebenyuk to discuss pet projects, open source activities, problems and benefits. How to find time, how to contribute and how to pay respects to those who publish their work.<br/><br/>
+Also we share our first impressions on Apple's &quot;Unleashed.&quot; Special event and plan next upgrades.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=XOJXEimbVZ0">YouTube</a>.<br/><br/>
+Our guest:<br/>
+Alex Grebenyuk, author of Nuke, Pulse, Align, <a href="https://twitter.com/a_grebenyuk">@a_grebenyuk</a>.<br/><br/>
+Useful links:<br/>
+<a href="https://kean.blog">Blog</a><br/><br/>
+<a href="https://github.com/kean/Pulse">Pulse</a><br/><br/>
+<a href="https://github.com/kean/Nuke">Nuke</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1144778359-mobilepeopletalks-pet-projects-and-open-source.mp3" length="54717044"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
