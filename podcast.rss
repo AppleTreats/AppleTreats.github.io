@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 20 Oct 2021 05:25:56 +0000</pubDate>
-        <lastBuildDate>Wed, 20 Oct 2021 05:25:56 +0000</lastBuildDate>
+        <pubDate>Wed, 03 Nov 2021 07:22:40 +0000</pubDate>
+        <lastBuildDate>Wed, 03 Nov 2021 07:22:40 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -659,6 +659,44 @@ Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, 
 Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1144778359-mobilepeopletalks-pet-projects-and-open-source.mp3" length="54717044"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0119d</guid>
+            <title>Nov 2, 2021 – Kotlin Multiplatform Mobile</title>
+            <pubDate>Wed, 03 Nov 2021 07:22:40 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=3-e8dEf2WYE</link>
+            <itunes:duration>00:46:44</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>19</itunes:episode>
+            <description>Kotlin Multiplatform Mobile got some updates recently. We invited Anna Zharkova, Kotlin GDE to discuss it and compare to Swift.
+We're discussing Kotlin and Swift from developers' perspective, looking for similarities and differences. And, also, looking into mobile platforms' communities.
+
+Our guest: Anna Zharkova, Kotlin GDE, Lead Mobile Developer iOS/Android, https://twitter.com/anioutkajarkova
+
+Useful links:
+Info - https://anioutkazharkova.github.io
+Telegram channel - https://t.me/prettygeeknotes
+Blog - https://anioutkazharkova.medium.com
+
+Watch this episode: https://www.youtube.com/watch?v=3-e8dEf2WYE
+</description>
+            <itunes:subtitle>Apple Treats talks ... Kotlin?.. Yes. But no worries. We're covering Swift too.</itunes:subtitle>
+            <content:encoded><![CDATA[Kotlin Multiplatform Mobile got some updates recently. We invited Anna Zharkova, Kotlin GDE to discuss it and compare to Swift.<br/><br/>
+                We're discussing Kotlin and Swift from developers' perspective, looking for similarities and differences. And, also, looking into mobile platforms' communities.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=3-e8dEf2WYE">YouTube</a>.<br/><br/>
+Our guest:<br/>
+Our guest: Anna Zharkova, Kotlin GDE, Lead Mobile Developer iOS/Android, <a href="https://twitter.com/anioutkajarkova">@anioutkajarkova</a>
+Useful links:<br/>
+<a href="https://anioutkazharkova.github.io">Info</a><br/><br/>
+<a href="https://t.me/prettygeeknotes">Telegram channel</a><br/><br/>
+<a href="https://anioutkazharkova.medium.com">Blog</a><br/><br/>
+Podcast host:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1152956035-mobilepeopletalks-s01e19-kmm.mp3" length="88228467"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
