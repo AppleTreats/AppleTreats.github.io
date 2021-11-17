@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 03 Nov 2021 07:22:40 +0000</pubDate>
-        <lastBuildDate>Wed, 03 Nov 2021 07:22:40 +0000</lastBuildDate>
+        <pubDate>Wed, 17 Nov 2021 07:50:20 +0000</pubDate>
+        <lastBuildDate>Wed, 17 Nov 2021 07:50:20 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -697,6 +697,33 @@ Podcast host:<br/>
 Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1152956035-mobilepeopletalks-s01e19-kmm.mp3" length="88228467"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0120d</guid>
+            <title>Nov 16, 2021 – Platforms and services</title>
+            <pubDate>Wed, 17 Nov 2021 07:50:20 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=J2zlDsaEBfg</link>
+            <itunes:duration>00:46:44</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>20</itunes:episode>
+            <description>Apple made couple of interesting announces and released couple of updates which affect us, developers. Business essentials program and updates in macOS and iOS, SharePlay and ProMotion displays – we got it covered.
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=J2zlDsaEBfg
+</description>
+            <itunes:subtitle>Apple Treats talks ... Kotlin?.. Yes. But no worries. We're covering Swift too.</itunes:subtitle>
+            <content:encoded><![CDATA[Apple made couple of interesting announces and released couple of updates which affect us, developers. <a href="https://mobilepeople.news/blog/2021/11/apple-launches-business-essentials-program/">Business essentials program</a> and <a href="https://mobilepeople.news/blog/2021/11/new-beta-for-ios-macos-and-other-oses-are-published/">updates in macOS and iOS</a>, <a href="https://mobilepeople.news/blog/2021/10/macos-12-1-beta-is-released-with-shareplay-enabled/">SharePlay</a> and <a href="https://mobilepeople.news/blog/2021/11/safari-technology-preview-135-adds-support-for-120hz-promotion-displays-on-new-macbooks/">ProMotion displays</a> – we got it covered.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=J2zlDsaEBfg">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1161723358-mobilepeopletalks-at-s01e20-platforms-and-services.mp3" length="104513291"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
