@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 17 Nov 2021 07:50:20 +0000</pubDate>
-        <lastBuildDate>Wed, 17 Nov 2021 07:50:20 +0000</lastBuildDate>
+        <pubDate>Tue, 30 Nov 2021 16:26:35 +0000</pubDate>
+        <lastBuildDate>Tue, 30 Nov 2021 16:26:35 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -724,6 +724,34 @@ Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, 
 Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1161723358-mobilepeopletalks-at-s01e20-platforms-and-services.mp3" length="104513291"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0121d</guid>
+            <title>Nov 30, 2021 – Lawsuits and frameworks</title>
+            <pubDate>Tue, 30 Nov 2021 16:26:35 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=3VLKTGakz_w</link>
+            <itunes:duration>00:46:30</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>21</itunes:episode>
+            <description>Some say these were slow weeks in Apple developers' world... Probably not so much.
+Apple sues NSO Group and launches two programs – Self Service Repairs and MacBook Upgrade. New beta versions are here. And some cool third party frameworks are here too – they're even open-sourced. Let's dive in!
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=3VLKTGakz_w
+</description>
+            <itunes:subtitle>Some say these were slow weeks in Apple developers' world... Probably not so much.</itunes:subtitle>
+            <content:encoded><![CDATA[<a href="https://mobilepeople.news/blog/2021/11/apple-sues-nso-group-over-spyware-and-imessage-exploits/">Apple sues NSO Group</a> and launches two programs – <a href="https://mobilepeople.news/blog/2021/11/apple-announces-self-service-repair-program/">Self Service Repairs</a> and <a href="https://mobilepeople.news/blog/2021/11/apple-launches-macbook-upgrade-program-for-business-partners/">MacBook Upgrade</a>. <a href="https://mobilepeople.news/blog/2021/11/next-round-of-betas-is-released-for-ios-and-other-platforms/">New beta versions</a> are here. And <a href="https://mobilepeople.news/blog/2021/11/spotify-releases-xcremotecache-to-public/">some</a> <a href="https://mobilepeople.news/blog/2021/11/point-free-open-sources-swiftui-navigation/">cool</a> third party frameworks are here too – they're even open-sourced. Let's dive in!<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=3VLKTGakz_w">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1169351611-mobilepeopletalks-s01e21-lawsuits-and-frameworks.mp3" length="88466075"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
