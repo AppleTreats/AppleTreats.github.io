@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Tue, 30 Nov 2021 16:26:35 +0000</pubDate>
-        <lastBuildDate>Tue, 30 Nov 2021 16:26:35 +0000</lastBuildDate>
+        <pubDate>Wed, 15 Dec 2021 09:47:39 +0000</pubDate>
+        <lastBuildDate>Wed, 15 Dec 2021 09:47:39 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -752,6 +752,39 @@ Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, 
 Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1169351611-mobilepeopletalks-s01e21-lawsuits-and-frameworks.mp3" length="88466075"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0122d</guid>
+            <title>Dec 14, 2021 – Betas and education</title>
+            <pubDate>Wed, 15 Dec 2021 09:47:39 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=PCDfOCyV1Cc</link>
+            <itunes:duration>00:53:52</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>22</itunes:episode>
+            <description>Apple publishes new OS releases just before the show. So these are no longer betas. Meanwhile, Apple partners with Boys &amp; Girls Clubs of America to teach kids how to code.
+
+And, yes, we're talking privacy. Again.
+
+This and all other Apple news for these two weeks.
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=PCDfOCyV1Cc
+</description>
+            <itunes:subtitle>We expected this episode to be short. We were wrong.</itunes:subtitle>
+            <content:encoded><![CDATA[Apple publishes new OS releases just before the show. So these are no longer betas. Meanwhile, Apple partners with Boys &amp; Girls Clubs of America to teach kids how to code.<br/><br/>
+And, yes, we're talking privacy. Again.<br/><br/>
+This and all other Apple news for these two weeks.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=PCDfOCyV1Cc">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1178214232-mobilepeopletalks-betas-and-education.mp3" length="101846700"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
