@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 15 Dec 2021 09:47:39 +0000</pubDate>
-        <lastBuildDate>Wed, 15 Dec 2021 09:47:39 +0000</lastBuildDate>
+        <pubDate>Wed, 29 Dec 2021 07:36:12 +0000</pubDate>
+        <lastBuildDate>Wed, 29 Dec 2021 07:36:12 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -785,6 +785,56 @@ Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, 
 Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1178214232-mobilepeopletalks-betas-and-education.mp3" length="101846700"/>
+            <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2021:tracks/0123d</guid>
+            <title>Dec 28, 2021 – New Year resolutions</title>
+            <pubDate>Wed, 29 Dec 2021 07:36:12 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=GdaWQ6dZUBA</link>
+            <itunes:duration>01:20:16</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>23</itunes:episode>
+            <description>For the finishing episode of the season we decided to look into next year. For the New Year some developers might want to see new Swift IDE to be released. And so... we've invited Marcin Krzyżanowski to discuss Swift Studio. And we even show it real life (you might want to watch this episode too).
+
+Was it hard to build new IDE? What is the main purpose of Swift Studio? How does recent VSCode Swift extension affects the development?
+
+And finally – when it is going to be released? :)
+
+Our guest:
+Marcin Krzyżanowski, Swift Studio founder, https://twitter.com/krzyzanowskim
+
+Personal projects: https://swift.best
+
+GitHub: https://github.com/krzyzanowskim
+
+Sponsor Marcin: https://github.com/sponsors/krzyzanowskim
+
+Judo app: https://www.judo.app
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=GdaWQ6dZUBA
+</description>
+            <itunes:subtitle>Season finale! It is almost 2022. Let's make our New Year resolutions... and discuss Swift Studio :)</itunes:subtitle>
+            <content:encoded><![CDATA[For the finishing episode of the season we decided to look into next year. For the New Year some developers might want to see new Swift IDE to be released. And so... we've invited Marcin Krzyżanowski to discuss Swift Studio. And we even show it real life (you might want to watch this episode too).<br/><br/>
+Was it hard to build new IDE? What is the main purpose of Swift Studio? How does recent VSCode Swift extension affects the development?<br/><br/>
+And finally – when it is going to be released? :)<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=GdaWQ6dZUBA">YouTube</a>.<br/><br/>
+Our guest:<br/>
+Marcin Krzyżanowski, Swift Studio founder, <a href="https://twitter.com/krzyzanowskim">@krzyzanowskim</a><br/><br/>
+<a href="https://swift.best">Personal projects</a><br/><br/>
+<a href="https://github.com/krzyzanowskim">GitHub</a><br/><br/>
+<a href="https://github.com/sponsors/krzyzanowskim">Sponsor Marcin</a><br/><br/>
+<a href="https://www.judo.app">Judo app</a><br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1186559065-mobilepeopletalks-s01e23-new-year-resolutions.mp3" length="152911258"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
         </item>
     </channel>
