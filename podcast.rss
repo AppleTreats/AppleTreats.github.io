@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 09 Feb 2022 07:30:23 +0000</pubDate>
-        <lastBuildDate>Wed, 09 Feb 2022 07:30:23 +0000</lastBuildDate>
+        <pubDate>Thu, 21 Jul 2022 20:15:24 +0000</pubDate>
+        <lastBuildDate>Thu, 21 Jul 2022 20:15:24 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -860,8 +860,8 @@ Your daily source of mobile news: https://mobilepeople.news
 
 Watch this episode: https://www.youtube.com/watch?v=5lWbKUOT42w
 </description>
-            <itunes:subtitle>Season finale! It is almost 2022. Let's make our New Year resolutions... and discuss Swift Studio :)</itunes:subtitle>
-            <content:encoded><![CDATA[We're back! With great new co-host! Probably, with some new podcast sections. And with more fun :)<br/><br/>
+            <itunes:subtitle>We're back! With great new co-host! </itunes:subtitle>
+            <content:encoded><![CDATA[Probably, with some new podcast sections. And with more fun :)<br/><br/>
 Let's review, what happened in the winter for Apple developers. And there is a lot, actually. Unlisted app distribution, new releases and betas, South Korea and Netherlands and much more.<br/><br/>
 Watch this episode on <a href="https://www.youtube.com/watch?v=5lWbKUOT42w">YouTube</a>.<br/><br/>
 Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
@@ -872,6 +872,43 @@ Svetlana Shardakova: software engineer at EPAM Systems, Instagram <a href="http:
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1212534607-mobilepeopletalks-winter-updates.mp3" length="88242780"/>
             <itunes:image href="https://appletreats.github.io/images/logoBig.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0202d</guid>
+            <title>WWDC22 personal favorites</title>
+            <pubDate>Thu, 21 Jul 2022 20:15:24 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=d7PoEbtPI0I</link>
+            <itunes:duration>00:43:32</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <description>Apple Treats returns to regular programming with episode on WWDC22.
+Yes... Better late than never.
+
+We're discussing our own personal favorite announcements of WWDC22. Kind of clunky episode, though. :)
+
+Podcast hosts:
+- Danis Tazetdinov: chief software engineer at EPAM Systems, https://twitter.com/edeniska
+- Vladimir Burdukov: lead engineer at EPAM Systems, https://twitter.com/chippcheg
+- Svetlana Shardakova: software engineer at EPAM Systems, http://instagram.com/sunny_junne
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=d7PoEbtPI0I
+</description>
+            <itunes:subtitle>Apple Treats returns to regular programming with episode on WWDC22.</itunes:subtitle>
+            <content:encoded><![CDATA[Yes... Better late than never.<br/><br/>
+We're discussing our own personal favorite announcements of WWDC22. Kind of clunky episode, though. :)<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=d7PoEbtPI0I">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: chief software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Svetlana Shardakova: software engineer at EPAM Systems, Instagram <a href="http://instagram.com/sunny_junne">@sunny_junne</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1309484170-mobilepeopletalks-s02e02-wwdc22.mp3" length="83460315"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
         </item>
     </channel>
 </rss>
