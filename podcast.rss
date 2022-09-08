@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Fri, 19 Aug 2022 00:10:52 +0000</pubDate>
-        <lastBuildDate>Fri, 19 Aug 2022 00:10:52 +0000</lastBuildDate>
+        <pubDate>Thu, 08 Sep 2022 21:04:59 +0000</pubDate>
+        <lastBuildDate>Thu, 08 Sep 2022 21:04:59 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -937,7 +937,7 @@ Your daily source of mobile news: https://mobilepeople.news
 
 Watch this episode: https://www.youtube.com/watch?v=UokRBCjbo8M
 </description>
-            <itunes:subtitle>We're working on some new activities on the podcast. But those are not yet reay.</itunes:subtitle>
+            <itunes:subtitle>We're working on some new activities on the podcast. But those are not yet ready.</itunes:subtitle>
             <content:encoded><![CDATA[It's August. We're all waiting for the big releases to happen next months.<br/><br/>
 And the only thing we could do today is go through current news and updates for Apple developers. Market reports, Swift community news, interesting features in new beta versions, and even some good news in Apple Pay.<br/><br/>
 Watch this episode on <a href="https://www.youtube.com/watch?v=UokRBCjbo8M">YouTube</a>.<br/><br/>
@@ -951,6 +951,39 @@ Interesting links:<br/>
 <a href="https://github.com/eDeniska/stuff-app">Stuff app</a><br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1326783853-mobilepeopletalks-s02e03-waiting-for-the-release.mp3" length="88568227"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0204d</guid>
+            <title>Looking far out</title>
+            <pubDate>Thu, 08 Sep 2022 21:04:59 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=aZ5Ke7KZNBU</link>
+            <itunes:duration>00:52:27</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <description>Apple announced new Apple Watches, AirPods and iPhones on 'Far Out.' special event. Podcast team goes through all of the announcements and reflects on possible signs of new features during WWDC22.
+
+Podcast hosts:
+- Danis Tazetdinov: chief software engineer at EPAM Systems, https://twitter.com/edeniska
+- Vladimir Burdukov: lead engineer at EPAM Systems, https://twitter.com/chippcheg
+- Svetlana Shardakova: software engineer at EPAM Systems, http://instagram.com/sunny_junne
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=aZ5Ke7KZNBU
+</description>
+            <itunes:subtitle>We've just seen Far Out. Are you excited about Dynamic Island or Ultra watch?..</itunes:subtitle>
+            <content:encoded><![CDATA[Apple announced new Apple Watches, AirPods and iPhones on 'Far Out.' special event. Podcast team goes through all of the announcements and reflects on possible signs of new features during WWDC22.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=aZ5Ke7KZNBU">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: chief software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Svetlana Shardakova: software engineer at EPAM Systems, Instagram <a href="http://instagram.com/sunny_junne">@sunny_junne</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1340321836-mobilepeopletalks-s02-e04-looking-far-out.mp3" length="99971375"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
         </item>
     </channel>
