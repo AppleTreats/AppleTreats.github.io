@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Thu, 20 Oct 2022 18:56:15 +0000</pubDate>
-        <lastBuildDate>Thu, 20 Oct 2022 18:56:15 +0000</lastBuildDate>
+        <pubDate>Thu, 17 Nov 2022 20:18:18 +0000</pubDate>
+        <lastBuildDate>Thu, 17 Nov 2022 20:18:18 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -1015,7 +1015,7 @@ Your daily source of mobile news: https://mobilepeople.news
 Watch this episode: https://www.youtube.com/watch?v=QPWe4v092pA
 </description>
             <itunes:subtitle>Long time no see... We've got something to talk about.</itunes:subtitle>
-            <content:encoded><![CDATA[We're back with couple of recent updates. New iPads are weird. Especially, the pencil. Macros are coming to Swift. iPhones are dominating in US and iOS 16 adoption is also good.</br>
+            <content:encoded><![CDATA[We're back with couple of recent updates. New iPads are weird. Especially, the pencil. Macros are coming to Swift. iPhones are dominating in US and iOS 16 adoption is also good.<br/>
 And all other news important to developers.<br/><br/>
 Useful links:<br/>
 <a href="https://gist.github.com/DougGregor/4f3ba5f4eadac474ae62eae836328b71">A Possible Vision for Macros in Swift</a> (<a href="https://forums.swift.org/t/a-possible-vision-for-macros-in-swift/60900">Forum discussion</a>)<br/><br/>
@@ -1027,6 +1027,42 @@ Danis Tazetdinov: chief software engineer at EPAM Systems, Twitter <a href="http
 Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1366973701-mobilepeopletalks-all-the-news.mp3" length="79312731"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0206d</guid>
+            <title>No special event November</title>
+            <pubDate>Thu, 17 Nov 2022 20:18:18 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=tq97UZiVHoE</link>
+            <itunes:duration>00:47:46</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <description>We decided to talk about current news. Fears of recession, new beta versions, Stage Manager in production, SwiftUI on Mac. Not much news to report, but still a lot to discuss. And we’ve even tried Continuity Camera for the first time at podcast. Check out, how it went.
+
+Useful links:
+A companion for SwiftUI: https://apps.apple.com/us/app/a-companion-for-swiftui/id1485436674?mt=12
+
+Podcast hosts:
+- Danis Tazetdinov: chief software engineer at EPAM Systems, https://twitter.com/edeniska
+- Vladimir Burdukov: lead engineer at EPAM Systems, https://twitter.com/chippcheg
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=tq97UZiVHoE
+</description>
+            <itunes:subtitle>We’ve waited for a month, but Apple did not have any special events for Macs this year.</itunes:subtitle>
+            <content:encoded><![CDATA[We decided to talk about current news. Fears of recession, new beta versions, Stage Manager in production, SwiftUI on Mac. Not much news to report, but still a lot to discuss. And we’ve even tried Continuity Camera for the first time at podcast. Check out, how it went.<br/><br/>
+Useful links:<br/>
+<a href="https://apps.apple.com/us/app/a-companion-for-swiftui/id1485436674?mt=12">A companion for SwiftUI</a><br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=tq97UZiVHoE">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: chief software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1385264596-mobilepeopletalks-no-special-event-november.mp3" length="90626682"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
         </item>
     </channel>
