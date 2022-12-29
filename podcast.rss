@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Thu, 17 Nov 2022 20:18:18 +0000</pubDate>
-        <lastBuildDate>Thu, 17 Nov 2022 20:18:18 +0000</lastBuildDate>
+        <pubDate>Thu, 29 Dec 2022 22:08:43 +0000</pubDate>
+        <lastBuildDate>Thu, 29 Dec 2022 22:08:43 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -1063,6 +1063,43 @@ Danis Tazetdinov: chief software engineer at EPAM Systems, Twitter <a href="http
 Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1385264596-mobilepeopletalks-no-special-event-november.mp3" length="90626682"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0207d</guid>
+            <title>Holiday Special</title>
+            <pubDate>Thu, 29 Dec 2022 22:08:43 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=nUWPqJHHfwg</link>
+            <itunes:duration>00:58:59</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <description>2022 is almost over. Podcast team gathered together in a festive mood to look into the year from developer's perspective.
+
+What devices captured our attention, events, new features?.. And also, couple of the recent news which definitely needed our attention.
+
+Happy holidays everybody! And see you next year!
+
+Podcast hosts:
+- Danis Tazetdinov: chief software engineer at EPAM Systems, https://twitter.com/edeniska
+- Vladimir Burdukov: lead engineer at EPAM Systems, https://twitter.com/chippcheg
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=nUWPqJHHfwg
+</description>
+            <itunes:subtitle>2022 is almost over. Podcast team gathered together in a festive mood to look into the year from developer's perspective.</itunes:subtitle>
+            <content:encoded><![CDATA[2022 is almost over. Podcast team gathered together in a festive mood to look into the year from developer's perspective.<br/><br/>
+What devices captured our attention, events, new features?.. And also, couple of the recent news which definitely needed our attention.<br/><br/>
+Happy holidays everybody! And see you next year!<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=nUWPqJHHfwg">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: chief software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>.<br/><br/>
+Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1412620621-mobilepeopletalks-holiday-special.mp3" length="111608264"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
         </item>
     </channel>
