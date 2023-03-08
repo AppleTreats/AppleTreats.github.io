@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Thu, 29 Dec 2022 22:08:43 +0000</pubDate>
-        <lastBuildDate>Thu, 29 Dec 2022 22:08:43 +0000</lastBuildDate>
+        <pubDate>Wed, 08 Mar 2023 21:04:16 +0000</pubDate>
+        <lastBuildDate>Wed, 08 Mar 2023 21:04:16 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -1100,6 +1100,53 @@ Danis Tazetdinov: chief software engineer at EPAM Systems, Twitter <a href="http
 Vladimir Burdukov: lead engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1412620621-mobilepeopletalks-holiday-special.mp3" length="111608264"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0301</guid>
+            <title>International Women's Day</title>
+            <pubDate>Wed, 08 Mar 2023 21:04:16 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=dLcF_fxErRw</link>
+            <itunes:duration>00:49:26</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <description>Apple Treats is back! Finally! And we have another special episode devoted to International Women's Day!
+                
+We invited Natalia Penferova (from Nil Coalescing) to talk about development, books and IT community and general.
+This was really nice and inspiring talk with some interesting insights on how to get recognized by big companies or how to actually start to write a book. :)
+
+Useful links:
+Natalia Panferova: https://twitter.com/natpanferova and https://mastodon.cloud/@natpanferova
+Exsto app: https://apps.apple.com/app/apple-store/id6444933770
+Nil Coalescing blog: https://nilcoalescing.com/blog/
+Integrating SwiftUI into UIKit Apps book: https://books.nilcoalescing.com/integrating-swiftui
+
+Podcast hosts:
+- Danis Tazetdinov: associalte principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+- Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=dLcF_fxErRw
+</description>
+            <itunes:subtitle>Apple Treats is back! Finally! And we have another special episode devoted to International Women's Day!</itunes:subtitle>
+            <content:encoded><![CDATA[Apple Treats is back! Finally! And we have another special episode devoted to International Women's Day!<br/><br/>
+We invited Natalia Penferova (from Nil Coalescing) to talk about development, books and IT community and general.<br/><br/>
+This was really nice and inspiring talk with some interesting insights on how to get recognized by big companies or how to actually start to write a book. :)<br/><br/>
+Useful links:<br/><br/>
+Natalia Panferova: Twitter <a href="https://twitter.com/natpanferova">@pantpanferova</a>, Mastodon <a href="https://mastodon.cloud/@natpanferova">@natpanferova@mastodon.cloud</a><br/><br/>
+<a href="https://apps.apple.com/app/apple-store/id6444933770">Exsto app</a><br/><br/>
+<a href="https://nilcoalescing.com/blog/">Nil Coalescing blog</a><br/><br/>
+<a href="https://books.nilcoalescing.com/integrating-swiftui">Integrating SwiftUI into UIKit Apps book</a><br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=dLcF_fxErRw">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1464372628-mobilepeopletalks-international-womens-day.mp3" length="90395122"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
         </item>
     </channel>
