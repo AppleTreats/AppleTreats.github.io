@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Wed, 08 Mar 2023 21:04:16 +0000</pubDate>
-        <lastBuildDate>Wed, 08 Mar 2023 21:04:16 +0000</lastBuildDate>
+        <pubDate>Thu, 06 Apr 2023 18:17:10 +0000</pubDate>
+        <lastBuildDate>Thu, 06 Apr 2023 18:17:10 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -1147,6 +1147,43 @@ Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter
 Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1464372628-mobilepeopletalks-international-womens-day.mp3" length="90395122"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0302</guid>
+            <title>Let's chat about GPT</title>
+            <pubDate>Thu, 06 Apr 2023 18:17:10 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=o9lVWnZcrL4</link>
+            <itunes:duration>00:49:26</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <description>The world is going crazy about generative machine learning models. Now it's not just funny profile pictures, but also chat bots. Or answering machines. Or even junior developers.
+                
+Let's check what's this hype is all about. What are these large language models are capable of? How could they affect mobile apps? And what is the future of software development?
+
+And, yes, we're about our expectations for WWDC23.
+
+Podcast hosts:
+- Danis Tazetdinov: associalte principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+- Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
+
+Your daily source of mobile news: https://mobilepeople.news
+
+Watch this episode: https://www.youtube.com/watch?v=o9lVWnZcrL4
+</description>
+            <itunes:subtitle>The world is going crazy about generative machine learning models. Let's check what's this hype is all about.</itunes:subtitle>
+            <content:encoded><![CDATA[The world is going crazy about generative machine learning models. Now it's not just funny profile pictures, but also chat bots. Or answering machines. Or even junior developers.<br/><br/>
+Let's check what's this hype is all about. What are these large language models are capable of? How could they affect mobile apps? And what is the future of software development?<br/><br/>
+And, yes, we're about our expectations for WWDC23.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=o9lVWnZcrL4">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
+Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1486749127-mobilepeopletalks-s03e02-lets-chat-about-gpt.mp3" length="94834006"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
         </item>
     </channel>
