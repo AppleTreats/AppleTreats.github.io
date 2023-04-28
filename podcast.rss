@@ -3,30 +3,43 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Thu, 06 Apr 2023 18:17:10 +0000</pubDate>
-        <lastBuildDate>Thu, 06 Apr 2023 18:17:10 +0000</lastBuildDate>
+        <pubDate>Thu, 27 Apr 2023 18:17:10 +0000</pubDate>
+        <lastBuildDate>Thu, 27 Apr 2023 18:17:10 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
         <description>Bite-sized news for Apple developers.
 
 Podcast hosts:
-Danis Tazetdinov: twitter: https://twitter.com/edeniska, telegram: https://t.me/edeniska
-Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.
+- Danis Tazetdinov: associalte principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+- Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
 
-Podcast has its own channel: https://t.me/AppleTreatsNews
+Your daily source of mobile news: https://mobilepeople.news
+
+Our social media:
+Mastodon: https://mastodon.social/@AppleTreats
+Instagram: https://instagram.com/AppleTreatsNews
+YouTube: https://www.youtube.com/@AppleTreatsNews
+Twitter: https://twitter.com/AppleTreatsNews
+Telegram: https://t.me/AppleTreatsNews
         </description>
         <content:encoded>
             <![CDATA[Bite-sized news for Apple developers.<br/><br/>
 Podcast hosts:<br/>
-Danis Tazetdinov: Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Telegram <a href="https://t.me/edeniska">@edeniska</a> (<a href="https://t.me/AppleDevNews">Apple Developer News channel</a>).<br/><br/>
-Iryna Yatskevich: engineer enjoying adopting new tech, currently slightly changed her stack to work on brand new baby-startup Monika.<br/><br/>
-Podcast has its own Telegram channel <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a>.]]>
+Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Our social media:<br/>
+Mastodon: <a href="https://mastodon.social/@AppleTreats">@AppleTreats@mastodon.social</a><br/><br/>
+Instagram: <a href="https://instagram.com/AppleTreatsNews">@AppleTreatsNews</a><br/><br/>
+YouTube: <a href="https://www.youtube.com/@AppleTreatsNews">@AppleTreatsNews</a><br/><br/>
+Twitter: <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a><br/><br/>
+Telegram: <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a>.]]>
         </content:encoded>
         <itunes:subtitle>Bite-sized news for Apple developers.</itunes:subtitle>
         <itunes:owner>
             <itunes:name>Apple Treats</itunes:name>
-            <itunes:email>edeniska@me.com</itunes:email>
+            <itunes:email>furor.stoop0j@icloud.com</itunes:email>
         </itunes:owner>
         <itunes:author>Apple Treats</itunes:author>
         <itunes:explicit>no</itunes:explicit>
