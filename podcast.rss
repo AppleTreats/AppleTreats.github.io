@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Tue, 23 May 2023 1:17:10 +0000</pubDate>
-        <lastBuildDate>Tue, 23 May 2023 1:17:10 +0000</lastBuildDate>
+        <pubDate>Thu, 01 Jun 2023 17:45:07 +0000</pubDate>
+        <lastBuildDate>Thu, 01 Jun 2023 17:45:07 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -17,7 +17,7 @@ Podcast hosts:
 Your daily source of mobile news: https://mobilepeople.news
 
 Our social media:
-LinkTree: https://linktr.ee/AppleTreats
+Linktree: https://linktr.ee/AppleTreats
 Mastodon: https://mastodon.social/@AppleTreats
 Instagram: https://instagram.com/AppleTreatsNews
 YouTube: https://www.youtube.com/@AppleTreatsNews
@@ -31,7 +31,7 @@ Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter
 Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
 Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
 Our social media:<br/>
-LinkTree: <a href="https://linktr.ee/AppleTreats">@AppleTreats</a><br/><br/>
+Linktree: <a href="https://linktr.ee/AppleTreats">@AppleTreats</a><br/><br/>
 Mastodon: <a href="https://mastodon.social/@AppleTreats">@AppleTreats@mastodon.social</a><br/><br/>
 Instagram: <a href="https://instagram.com/AppleTreatsNews">@AppleTreatsNews</a><br/><br/>
 YouTube: <a href="https://www.youtube.com/@AppleTreatsNews">@AppleTreatsNews</a><br/><br/>
@@ -1199,6 +1199,40 @@ Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter
 Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
 Subscribe to our Telegram <a href="https://t.me/AppleTreatsNews">@AppleTreatsNews</a> and Twitter <a href="https://twitter.com/AppleTreatsNews">@AppleTreatsNews</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1486749127-mobilepeopletalks-s03e02-lets-chat-about-gpt.mp3" length="94834006"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0303</guid>
+            <title>New Hope</title>
+            <pubDate>Thu, 01 Jun 2023 17:45:07 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=IhXiDJTzQps</link>
+            <itunes:duration>00:57:11</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <description>WWDC23 is just around the corner. Apple Treats team hopes that there will be some new hype. XR headset? Maybe. New Swift features – definitely. Something else – for sure.
+
+We're playing prediction games – what are we actually expecting from WWDC this year. We'll revise our predictions in the next episode.
+
+Podcast hosts:
+- Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+- Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
+
+All our links: https://linktr.ee/AppleTreats
+
+Watch this episode: https://www.youtube.com/watch?v=IhXiDJTzQps
+</description>
+            <itunes:subtitle>What would WWDC23 bring us?</itunes:subtitle>
+            <content:encoded><![CDATA[WWDC23 is just around the corner. Apple Treats team hopes that there will be some new hype. XR headset? Maybe. New Swift features – definitely. Something else – for sure.<br/><br/>
+                We're playing prediction games – what are we actually expecting from WWDC this year. We'll revise our predictions in the next episode.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=IhXiDJTzQps">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
+All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1528064773-mobilepeopletalks-s03e03-new-hope.mp3" length="109301885"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
         </item>
     </channel>
