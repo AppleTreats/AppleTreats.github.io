@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Thu, 14 Sep 2023 18:18:19 +0000</pubDate>
-        <lastBuildDate>Thu, 14 Sep 2023 18:18:19 +0000</lastBuildDate>
+        <pubDate>Thu, 28 Dec 2023 17:51:19 +0000</pubDate>
+        <lastBuildDate>Thu, 28 Dec 2023 17:51:19 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -1306,6 +1306,46 @@ Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter
 Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
 All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1616602752-mobilepeopletalks-s03e05-wonders-of-the-fall.mp3" length="87502983"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0306</guid>
+            <title>2023 in review</title>
+            <pubDate>Thu, 28 Dec 2023 17:51:19 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=Y8mhPH5O7x4</link>
+            <itunes:duration>01:01:16</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <description>Season finale. Podcast team discusses all the news and updates for Apple developers happened in 2023.
+
+New devices, new frameworks, new regulations. And almost no predictions for 2024.
+                
+Podcast hosts:
+- Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+- Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
+
+Daily source of mobile news: https://mobilepeople.news
+
+Don't forget to subscribe:
+Linktree: https://linktr.ee/AppleTreats
+Twitter: https://twitter.com/AppleTreatsNews
+Telegram: https://t.me/AppleTreatsNews
+Apple Podcasts: https://podcasts.apple.com/podcast/apple-treats/id1553249730
+
+Watch this episode: https://www.youtube.com/watch?v=Y8mhPH5O7x4
+            </description>
+            <itunes:subtitle>Season finale. Podcast team discusses all the news and updates for Apple developers happened in 2023.</itunes:subtitle>
+            <content:encoded><![CDATA[Season finale. Podcast team discusses all the news and updates for Apple developers happened in 2023.<br/><br/>
+New devices, new frameworks, new regulations. And almost no predictions for 2024.<br/><br/>
+Watch this episode on <a href="https://www.youtube.com/watch?v=Y8mhPH5O7x4">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast hosts:<br/>
+Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
+All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1702148313-mobilepeopletalks-s03e06-2023-in-review.mp3" length="88242595"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
         </item>
     </channel>
