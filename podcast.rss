@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Thu, 28 Dec 2023 17:51:19 +0000</pubDate>
-        <lastBuildDate>Thu, 28 Dec 2023 17:51:19 +0000</lastBuildDate>
+        <pubDate>Thu, 15 Feb 2024 22:35:55 +0000</pubDate>
+        <lastBuildDate>Thu, 15 Feb 2024 22:35:55 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -1346,6 +1346,81 @@ Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter
 Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
 All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1702148313-mobilepeopletalks-s03e06-2023-in-review.mp3" length="88242595"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0401</guid>
+            <title>2023 in review</title>
+            <pubDate>Thu, 15 Feb 2024 22:35:55 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=KYOZ_WPtqjE</link>
+            <itunes:duration>00:45:34</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>4</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <description>Together with Svetlana Shardakova we talk about her experience at Apple Developer Academy in Naples.
+                
+And.. there is a small tease for our next episode :)
+
+The Apple Developer Academy is a partnership between the University of Napoli Federico II and Apple.
+It is aimed at curious and open-minded learners from all around the world and from a wide range of backgrounds, every kind of different educational context and with diverse interests and passions to become world-class developers.
+
+The Apple Developer Academy is now welcoming applications for the a.y. 2024-2025.
+Apply on the official website:  https://www.developeracademy.unina.it/
+In case of additional questions contact with the Academy via an official mailbox developeracademy@unina.it
+
+The Apple Developer Academy offers two types of programs:
+• The foundation program, opened for university students, is an intensive 1-month course that covers specific topic areas.
+• The standard Academy program, opened for everyone, a 9-month educational course that dives deeper into all the skills necessary to become an app developer.
+
+Requirements:
+• A high school Diploma
+• 18 years of age by the start of the Academy
+• good English level
+
+Podcast guest:
+- Svetlana Shardakova, iOS developer, Apple Developer Academy 23/24 year student, IoT fan and eco activist, https://instagram.com/sunny_junne
+                
+Podcast hosts:
+- Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+
+Daily source of mobile news: https://mobilepeople.news
+
+Don't forget to subscribe:
+Linktree: https://linktr.ee/AppleTreats
+Twitter: https://twitter.com/AppleTreatsNews
+Telegram: https://t.me/AppleTreatsNews
+Apple Podcasts: https://podcasts.apple.com/podcast/apple-treats/id1553249730
+
+Watch this episode: https://www.youtube.com/watch?v=KYOZ_WPtqjE
+            </description>
+            <itunes:subtitle>Season finale. Podcast team discusses all the news and updates for Apple developers happened in 2023.</itunes:subtitle>
+            <content:encoded><![CDATA[Together with Svetlana Shardakova we talk about her experience at Apple Developer Academy in Naples.<br/><br/>
+And.. there is a small tease for our next episode :)<br/><br/>
+The Apple Developer Academy is a partnership between the University of Napoli Federico II and Apple.<br/><br/>
+It is aimed at curious and open-minded learners from all around the world and from a wide range of backgrounds, every kind of different educational context and with diverse interests and passions to become world-class developers.<br/><br/>
+The Apple Developer Academy is now welcoming applications for the a.y. 2024-2025.<br/><br/>
+Apply on the official <a href="https://www.developeracademy.unina.it/">website</a>.<br/><br/>
+In case of additional questions contact with the Academy via an official mailbox <a href="mailto:developeracademy@unina.it">developeracademy@unina.it</a><br/><br/>
+<br/><br/>The Apple Developer Academy offers two types of programs:
+<ul>
+<li>The foundation program, opened for university students, is an intensive 1-month course that covers specific topic areas.
+<li>The standard Academy program, opened for everyone, a 9-month educational course that dives deeper into all the skills necessary to become an app developer.
+</ul><br/>
+Requirements:
+<ul>
+<li>A high school Diploma
+<li>18 years of age by the start of the Academy
+<li>good English level
+</ul><br/>
+Podcast guest:<br/>
+- Svetlana Shardakova, iOS developer, Apple Developer Academy 23/24 year student, IoT fan and eco activist, <a href="https://instagram.com/sunny_junne">@sunny_junne</a>.
+Watch this episode on <a href="https://www.youtube.com/watch?v=KYOZ_WPtqjE">YouTube</a>.<br/><br/>
+Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Podcast host:<br/>
+Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1748366466-mobilepeopletalks-s04e01-acedemical-studies.mp3" length="87506362"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
         </item>
     </channel>
