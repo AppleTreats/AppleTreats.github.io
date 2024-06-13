@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Apple Treats</title>
-        <link>https://twitter.com/AppleTreatsNews</link>
-        <pubDate>Thu, 14 Mar 2024 23:10:37 +0000</pubDate>
-        <lastBuildDate>Thu, 14 Mar 2024 23:10:37 +00000000</lastBuildDate>
+        <link>https://appletreats.substack.com</link>
+        <pubDate>Thu, 13 Jun 2024 19:12:57 +0000</pubDate>
+        <lastBuildDate>Thu, 13 Jun 2024 19:12:57 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -14,7 +14,7 @@ Podcast hosts:
 - Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
 - Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
 
-Your daily source of mobile news: https://mobilepeople.news
+Your daily source of mobile news: https://appletreats.substack.com
 
 Our social media:
 Linktree: https://linktr.ee/AppleTreats
@@ -29,7 +29,7 @@ Telegram: https://t.me/AppleTreatsNews
 Podcast hosts:<br/>
 Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
 Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
-Your daily source of mobile news: <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+Your daily source of mobile news: <a href="https://appletreats.substack.com">AppleTreats.substack.com</a><br/><br/>
 Our social media:<br/>
 Linktree: <a href="https://linktr.ee/AppleTreats">@AppleTreats</a><br/><br/>
 Mastodon: <a href="https://mastodon.social/@AppleTreats">@AppleTreats@mastodon.social</a><br/><br/>
@@ -1462,6 +1462,43 @@ Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="http
 All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1774933578-mobilepeopletalks-visions-of-the-future.mp3" length="130733374"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-sgFYcNmg69TAy60F-hqyqmA-t3000x3000.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0403</guid>
+            <title>WWDC24</title>
+            <pubDate>Thu, 13 Jun 2024 19:12:57 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=Ij0FImLaecg</link>
+            <itunes:duration>01:10:04</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>4</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <description>WWDC24 is here. Apple Treats goes through OS updates, Swift features and, of course, Apple Intelligence!
+
+                Podcast hosts:
+                - Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+                - Vladimir Burdukov: lead software engineer at EPAM Systems, https://twitter.com/chippcheg, https://mastodon.social/@chippcheg
+
+                Daily source of mobile news: https://appletreats.substack.com
+
+                Don't forget to subscribe:
+                Linktree: https://linktr.ee/AppleTreats
+                Twitter: https://twitter.com/AppleTreatsNews
+                Telegram: https://t.me/AppleTreatsNews
+                Apple Podcasts: https://podcasts.apple.com/podcast/apple-treats/id1553249730
+
+                Watch this episode: https://www.youtube.com/watch?v=Ij0FImLaecg
+            </description>
+            <itunes:subtitle>Apple Treats reviews WWDC24 announcements!</itunes:subtitle>
+            <content:encoded><![CDATA[WWDC24 is here. Apple Treats goes through OS updates, Swift features and, of course, Apple Intelligence!<br/><br/>
+                Watch this episode on <a href="https://www.youtube.com/watch?v=Ij0FImLaecg">YouTube</a>.<br/><br/>
+                Your daily source of mobile news: <a href="https://appletreats.substack.com">AppleTreats.substack.com</a><br/><br/>
+                Podcast hosts:<br/>
+                Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+                Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
+                All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1846815921-mobilepeopletalks-wwdc24.mp3" length="134537639"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-uqdTcClhlU60aUij-3nmV0w-t3000x3000.jpg"/>
         </item>
     </channel>
 </rss>
