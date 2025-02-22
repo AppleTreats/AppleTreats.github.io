@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://appletreats.substack.com</link>
-        <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-        <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+        <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+        <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -1535,6 +1535,113 @@ All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</
                 Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
                 All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1981112631-mobilepeopletalks-2024-in-review.mp3" length="110570187"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-QjGLGyp8cxXju1Oi-wPXJEw-t3000x3000.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0501</guid>
+            <title>Monthly Update – February 2025</title>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=T6D2kFaH4PY</link>
+            <itunes:duration>00:42:13</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>5</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <description>Apple Treats returns with new kind of the episode – monthly updates. Or bi-monthly. Depends. Nevertheless, here are some news for Apple developers happened in 2025 so far.
+
+                Podcast host:
+                - Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+
+                Daily source of mobile news: https://appletreats.substack.com
+
+                Don't forget to subscribe:
+                Linktree: https://linktr.ee/AppleTreats
+
+                Watch this episode: https://www.youtube.com/watch?v=T6D2kFaH4PY
+
+                And here are the topics covered in this episode.
+
+                UK government orders Apple to create and provide iCloud backdoor - https://appletreats.substack.com/p/apple-no-longer-allows-uk-residents
+
+                Apple brings Apple Intelligence to Vision Pro with visionOS 2.4 beta 1 - https://appletreats.substack.com/p/apple-brings-apple-intelligence-to
+
+                Apple announces iPhone 16e - https://appletreats.substack.com/p/apple-announces-iphone-16e
+
+                Apple announces Powerbeats Pro 2 headphones with heart rate monitoring - https://appletreats.substack.com/p/apple-announces-powerbeats-pro-2
+
+                Apple releases Invites app - https://appletreats.substack.com/p/apple-releases-invite-app
+
+                Swift Student Challenge - https://appletreats.substack.com/p/swift-student-challenge-2025-has
+
+                Illinois residents now could use Apple Wallet to store their Driver’s License - https://appletreats.substack.com/p/illinois-residents-will-be-able-to
+
+                Asahi Linux developer lead resigns due to burnout and disagreements with Linux maintainers - https://appletreats.substack.com/p/asahi-linux-developer-lead-resigns
+
+                Parallels introduces x86 emulation support on Apple Silicon - https://appletreats.substack.com/p/parallels-introduces-x86-emulation
+
+                Apple releases iOS 18.3.1, macOS Sequoia 15.3.1 and other platforms - https://appletreats.substack.com/p/apple-releases-ios-183-macos-sequoia, https://appletreats.substack.com/p/apple-issues-updates-to-its-operating
+
+                Apple publishes iOS and iPadOS adoption statistics - https://appletreats.substack.com/p/76-of-modern-iphones-have-ios-18
+
+                Another alternative iOS marketplace launches in Europe - https://appletreats.substack.com/p/another-alternative-ios-marketplace
+
+                EU alternative iOS marketplace hosts adult-content application - https://appletreats.substack.com/p/eu-alternative-ios-marketplace-hosts
+
+                New legal requirements in App Store in Vietnam and South Korea - https://appletreats.substack.com/p/apple-announces-game-license-requirements, https://appletreats.substack.com/p/apple-announces-new-regulatory-requirements
+
+                Trader status becomes mandatory on App Store for EU app distribution - https://appletreats.substack.com/p/apple-warns-developers-about-trader, https://appletreats.substack.com/p/trader-status-requirement-is-in-effect
+
+                Apple announces price and tax updates for several regions in App Store - https://appletreats.substack.com/p/apple-announces-price-and-tax-updates-761
+
+                Apple announces updates on cryptography algorithms and certificates on App Store services - https://appletreats.substack.com/p/app-store-receipt-signing-intermediate, https://appletreats.substack.com/p/apple-warns-developers-on-apple-pay
+
+                Apple Push Notification service now provides more authentication key options - https://appletreats.substack.com/p/apple-push-notification-service-now
+
+                Apple announces Advanced Commerce API - https://appletreats.substack.com/p/apple-introduces-new-tools-for-in
+
+                Swift Build is now open source - https://appletreats.substack.com/p/apple-open-sources-swift-build
+
+                Swift team announces gRPC Swift 2 library - https://appletreats.substack.com/p/swift-team-announces-grpc-swift-2
+
+                Visual Studio Code Swift extension is now published on marketplace - https://appletreats.substack.com/p/visual-studio-code-swift-extension
+
+                Apple now allows to migrate digital purchases between Apple accounts - https://appletreats.substack.com/p/apple-clarifies-requirements-for
+
+                Emerge Tools announce Build Distribution service - https://appletreats.substack.com/p/emerge-tools-announce-build-distribution
+            </description>
+            <itunes:subtitle>New season, new episode, new format. Sort of. Getting back to basics.</itunes:subtitle>
+            <content:encoded><![CDATA[Apple Treats returns with new kind of the episode – monthly updates. Or bi-monthly. Depends. Nevertheless, here are some news for Apple developers happened in 2025 so far.<br/><br/>
+                Watch this episode on <a href="https://www.youtube.com/watch?v=T6D2kFaH4PY">YouTube</a>.<br/><br/>
+                Your daily source of mobile news: <a href="https://appletreats.substack.com">AppleTreats.substack.com</a><br/><br/>
+                Podcast host:<br/>
+                Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+                All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.<br/><br/>
+                And here are the topics covered in this episode.<br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-no-longer-allows-uk-residents">UK government orders Apple to create and provide iCloud backdoor</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-brings-apple-intelligence-to">Apple brings Apple Intelligence to Vision Pro with visionOS 2.4 beta 1</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-announces-iphone-16e">Apple announces iPhone 16e</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-announces-powerbeats-pro-2">Apple announces Powerbeats Pro 2 headphones with heart rate monitoring</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-releases-invite-app">Apple releases Invites app</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/swift-student-challenge-2025-has">Swift Student Challenge</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/illinois-residents-will-be-able-to">Illinois residents now could use Apple Wallet to store their Driver’s License</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/asahi-linux-developer-lead-resigns">Asahi Linux developer lead resigns due to burnout and disagreements with Linux maintainers</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/parallels-introduces-x86-emulation">Parallels introduces x86 emulation support on Apple Silicon</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-issues-updates-to-its-operating">Apple releases iOS 18.3.1, macOS Sequoia 15.3.1 and other platforms</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/76-of-modern-iphones-have-ios-18">Apple publishes iOS and iPadOS adoption statistics</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/another-alternative-ios-marketplace">Another alternative iOS marketplace launches in Europe</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/eu-alternative-ios-marketplace-hosts">EU alternative iOS marketplace hosts adult-content application</a><br/><br/>
+                New legal requirements in App Store in <a href="https://appletreats.substack.com/p/apple-announces-game-license-requirements,">Vietnam</a> and <a href="https://appletreats.substack.com/p/apple-announces-new-regulatory-requirements">South Korea</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/trader-status-requirement-is-in-effect">Trader status becomes mandatory on App Store for EU app distribution</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-announces-price-and-tax-updates-761">Apple announces price and tax updates for several regions in App Store</a><br/><br/>
+                Apple announces updates on <a href="https://appletreats.substack.com/p/app-store-receipt-signing-intermediate">cryptography</a> <a href="https://appletreats.substack.com/p/apple-warns-developers-on-apple-pay">algorithms</a> and certificates on App Store services<br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-push-notification-service-now">Apple Push Notification service now provides more authentication key options</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-introduces-new-tools-for-in">Apple announces Advanced Commerce API</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-open-sources-swift-build">Swift Build is now open source</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/swift-team-announces-grpc-swift-2">Swift team announces gRPC Swift 2 library</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/visual-studio-code-swift-extension">Visual Studio Code Swift extension is now published on marketplace</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/apple-clarifies-requirements-for">Apple now allows to migrate digital purchases between Apple accounts</a><br/><br/>
+                <a href="https://appletreats.substack.com/p/emerge-tools-announce-build-distribution">Emerge Tools announce Build Distribution service</a>]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2039746856-mobilepeopletalks-monthly-update-february-2025.mp3" length="81086509"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-QjGLGyp8cxXju1Oi-wPXJEw-t3000x3000.png"/>
         </item>
     </channel>
