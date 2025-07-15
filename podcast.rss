@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://appletreats.substack.com</link>
-        <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-        <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
+        <pubDate>Tue, 15 Jul 2025 18:41:18 +0000</pubDate>
+        <lastBuildDate>Tue, 15 Jul 2025 18:41:18 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -1350,7 +1350,7 @@ All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</
         </item>
         <item>
             <guid isPermaLink="false">tag:appletreats,2022:tracks/0401a</guid>
-            <title>Acedemical Studies</title>
+            <title>Academical Studies</title>
             <pubDate>Thu, 15 Feb 2024 22:35:55 +0000</pubDate>
             <link>https://www.youtube.com/watch?v=KYOZ_WPtqjE</link>
             <itunes:duration>00:45:34</itunes:duration>
@@ -1642,6 +1642,44 @@ All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</
                 <a href="https://appletreats.substack.com/p/apple-clarifies-requirements-for">Apple now allows to migrate digital purchases between Apple accounts</a><br/><br/>
                 <a href="https://appletreats.substack.com/p/emerge-tools-announce-build-distribution">Emerge Tools announce Build Distribution service</a>]]></content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2039746856-mobilepeopletalks-monthly-update-february-2025.mp3" length="81086509"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-QjGLGyp8cxXju1Oi-wPXJEw-t3000x3000.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0502</guid>
+            <title>iOS in the car</title>
+            <pubDate>Tue, 15 Jul 2025 18:41:18 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=OG-u0aNotbE</link>
+            <itunes:duration>00:35:32</itunes:duration>
+            <itunes:author>Apple Treats</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>5</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <description>Apple Treats finally returns with new episode – we're talking about CarPlay from the developer perspective.
+
+                Podcast host:
+                - Danis Tazetdinov: associate principal software engineer at EPAM Systems, https://twitter.com/edeniska, https://mastodon.social/@Deniska
+
+                Podcast guest:
+                - Tatyana Chunikhina, Senior iOS Developer at Quartett Mobile, https://www.linkedin.com/in/tanya-chunikhina-69b884139/
+
+                Daily source of mobile news: https://appletreats.substack.com
+
+                Don't forget to subscribe:
+                Linktree: https://linktr.ee/AppleTreats
+
+                Watch this episode: https://www.youtube.com/watch?v=OG-u0aNotbE
+            </description>
+            <itunes:subtitle>We're talking about CarPlay with the special guest.</itunes:subtitle>
+            <content:encoded><![CDATA[Apple Treats finally returns with new episode – we're talking about CarPlay from the developer perspective.<br/><br/>
+                Watch this episode on <a href="https://www.youtube.com/watch?v=OG-u0aNotbE">YouTube</a>.<br/><br/>
+                Your daily source of mobile news: <a href="https://appletreats.substack.com">AppleTreats.substack.com</a><br/><br/>
+                Podcast host:<br/>
+                Danis Tazetdinov: associate principal software engineer at EPAM Systems, Twitter <a href="https://twitter.com/edeniska">@edeniska</a>, Mastodon <a href="https://mastodon.social/@Deniska">@Deniska@mastodon.social</a>.<br/><br/>
+                Podcast guest:<br/>
+                Tatyana Chunikhina: senior iOS developer at Quartett Mobile, <a href="https://www.linkedin.com/in/tanya-chunikhina-69b884139/">LinkedIn</a>.<br/><br/>
+                All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.<br/><br/>
+]]></content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2130570264-mobilepeopletalks-ios-in-the-car.mp3" length="68246802"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-QjGLGyp8cxXju1Oi-wPXJEw-t3000x3000.png"/>
         </item>
     </channel>
