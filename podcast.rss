@@ -3,8 +3,8 @@
     <channel>
         <title>Apple Treats</title>
         <link>https://appletreats.substack.com</link>
-        <pubDate>Sat, 28 Feb 2026 01:01:39 +0000</pubDate>
-        <lastBuildDate>Sat, 28 Feb 2026 01:01:39 +0000</lastBuildDate>
+        <pubDate>Sat, 28 Feb 2026 02:01:39 +0000</pubDate>
+        <lastBuildDate>Sat, 28 Feb 2026 02:01:39 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>Apple Treats</copyright>
@@ -1758,7 +1758,7 @@ All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</
             <itunes:image href="https://i1.sndcdn.com/artworks-K0Tpk0czQPL9Nx24-hwygEg-t3000x3000.png"/>
         </item>
         <item>
-            <guid isPermaLink="false">tag:appletreats,2022:tracks/0601a</guid>
+            <guid isPermaLink="false">tag:appletreats,2022:tracks/0601b</guid>
             <title>Agentic coding</title>
             <pubDate>Sat, 28 Feb 2026 01:01:39 +0000</pubDate>
             <link>https://www.youtube.com/watch?v=h9DHc8B2RI0</link>
@@ -1788,7 +1788,7 @@ All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</
                 Vladimir Burdukov: lead software engineer at EPAM Systems, Twitter <a href="https://twitter.com/chippcheg">@chippcheg</a>, Mastodon <a href="https://mastodon.social/@chippcheg">@chippcheg@mastodon.social</a>.<br/><br/>
                 All our links on <a href="https://linktr.ee/AppleTreats">Linktree @AppleTreats</a>.<br/><br/>
             ]]></content:encoded>
-            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2274851699-mobilepeopletalks-agentic-coding.mp3" length="108002245"/>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2275147691-mobilepeopletalks-agentic-coding.mp3" length="108002245"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-QjGLGyp8cxXju1Oi-wPXJEw-t3000x3000.png"/>
         </item>
     </channel>
